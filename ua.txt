@@ -1,1000 +1,954 @@
-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/37.0.2062.94 Chrome/37.0.2062.94 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/8.0.8 Safari/600.8.9
-Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240
-Mozilla/5.0 (Windows NT 6.3; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/600.7.12 (KHTML, like Gecko) Version/8.0.7 Safari/600.7.12
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:40.0) Gecko/20100101 Firefox/40.0
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/7.1.8 Safari/537.85.17
-Mozilla/5.0 (iPad; CPU OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4
-Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F69 Safari/600.1.4
-Mozilla/5.0 (Windows NT 6.1; rv:40.0) Gecko/20100101 Firefox/40.0
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 5.1; rv:40.0) Gecko/20100101 Firefox/40.0
-Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.6.3 (KHTML, like Gecko) Version/8.0.6 Safari/600.6.3
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4
-Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
-Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:40.0) Gecko/20100101 Firefox/40.0
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
-Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-Mozilla/5.0 (X11; CrOS x86_64 7077.134.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.156 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.7.12 (KHTML, like Gecko) Version/7.1.7 Safari/537.85.16
-Mozilla/5.0 (Windows NT 6.0; rv:40.0) Gecko/20100101 Firefox/40.0
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:40.0) Gecko/20100101 Firefox/40.0
-Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B466 Safari/600.1.4
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4
-Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; KFTT Build/IML74K) AppleWebKit/537.36 (KHTML, like Gecko) Silk/3.68 like Chrome/39.0.2171.93 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12D508 Safari/600.1.4
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0
-Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
-Mozilla/5.0 (Linux; U; Android 4.4.3; en-us; KFTHWI Build/KTU84M) AppleWebKit/537.36 (KHTML, like Gecko) Silk/3.68 like Chrome/39.0.2171.93 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.6.3 (KHTML, like Gecko) Version/7.1.6 Safari/537.85.15
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.4.10 (KHTML, like Gecko) Version/8.0.4 Safari/600.4.10
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:40.0) Gecko/20100101 Firefox/40.0
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2
-Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/45.0.2454.68 Mobile/12H321 Safari/600.1.4
-Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; Touch; rv:11.0) like Gecko
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4
-Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53
-Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; TNJB; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; ARM; Trident/7.0; Touch; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:40.0) Gecko/20100101 Firefox/40.0
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MDDCJS; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
-Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-Mozilla/5.0 (Windows NT 6.2; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
-Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H143 Safari/600.1.4
-Mozilla/5.0 (Linux; U; Android 4.4.3; en-us; KFASWI Build/KTU84M) AppleWebKit/537.36 (KHTML, like Gecko) Silk/3.68 like Chrome/39.0.2171.93 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/7.0.55539 Mobile/12H321 Safari/600.1.4
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:40.0) Gecko/20100101 Firefox/40.0
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari/600.1.4
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MATBJS; rv:11.0) like Gecko
-Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; KFJWI Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Silk/3.68 like Chrome/39.0.2171.93 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D167 Safari/9537.53
-Mozilla/5.0 (X11; CrOS armv7l 7077.134.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.156 Safari/537.36
-Mozilla/5.0 (X11; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:39.0) Gecko/20100101 Firefox/39.0
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
-Mozilla/5.0 (Linux; U; Android 4.4.3; en-us; KFSOWI Build/KTU84M) AppleWebKit/537.36 (KHTML, like Gecko) Silk/3.68 like Chrome/39.0.2171.93 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3
-Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 8_1_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B435 Safari/600.1.4
-Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240
-Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; LCJB; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MDDRJS; rv:11.0) like Gecko
-Mozilla/5.0 (Linux; U; Android 4.4.3; en-us; KFAPWI Build/KTU84M) AppleWebKit/537.36 (KHTML, like Gecko) Silk/3.68 like Chrome/39.0.2171.93 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; Trident/7.0; Touch; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; LCJB; rv:11.0) like Gecko
-Mozilla/5.0 (Linux; U; Android 4.0.3; en-us; KFOT Build/IML74K) AppleWebKit/537.36 (KHTML, like Gecko) Silk/3.68 like Chrome/39.0.2171.93 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25
-Mozilla/5.0 (Linux; U; Android 4.4.3; en-us; KFARWI Build/KTU84M) AppleWebKit/537.36 (KHTML, like Gecko) Silk/3.68 like Chrome/39.0.2171.93 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; ASU2JS; rv:11.0) like Gecko
-Mozilla/5.0 (iPad; CPU OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A405 Safari/600.1.4
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0)
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Firefox/38.0
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; yie11; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MALNJS; rv:11.0) like Gecko
-Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/8.0.57838 Mobile/12H321 Safari/600.1.4
-Mozilla/5.0 (Windows NT 6.3; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0
-Mozilla/5.0 (Windows NT 10.0; rv:40.0) Gecko/20100101 Firefox/40.0
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MAGWJS; rv:11.0) like Gecko
-Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Firefox/31.0
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/7.1.5 Safari/537.85.14
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; TNJB; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; NP06; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:40.0) Gecko/20100101 Firefox/40.0
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36 OPR/31.0.1889.174
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.4.8 (KHTML, like Gecko) Version/8.0.3 Safari/600.4.8
-Mozilla/5.0 (iPad; CPU OS 7_0_6 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B651 Safari/9537.53
-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/7.1.3 Safari/537.85.12
-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview) Chrome/27.0.1453 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 8_0 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A365 Safari/600.1.4
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; rv:39.0) Gecko/20100101 Firefox/39.0
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 AOL/9.7 AOLBuild/4343.4049.US Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/45.0.2454.68 Mobile/12H143 Safari/600.1.4
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:38.0) Gecko/20100101 Firefox/38.0
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:39.0) Gecko/20100101 Firefox/39.0
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12H321
-Mozilla/5.0 (iPad; CPU OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B511 Safari/9537.53
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/7.1.2 Safari/537.85.11
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; ASU2JS; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
-Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.1) Gecko/2008070208 Firefox/3.0.1
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; MDDCJS; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.3; rv:40.0) Gecko/20100101 Firefox/40.0
-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) Qt/4.8.5 Safari/534.34
-Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 BingPreview/1.0b
-Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
-Mozilla/5.0 (iPad; CPU OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/7.0.55539 Mobile/12H143 Safari/600.1.4
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
-Mozilla/5.0 (X11; CrOS x86_64 7262.52.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.86 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MDDCJS; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.4.10 (KHTML, like Gecko) Version/7.1.4 Safari/537.85.13
-Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; MALNJS; rv:11.0) like Gecko
-Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/45.0.2454.68 Mobile/12F69 Safari/600.1.4
-Mozilla/5.0 (Android; Tablet; rv:40.0) Gecko/40.0 Firefox/40.0
-Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-Mozilla/5.0 (Linux; U; Android 4.4.3; en-us; KFSAWI Build/KTU84M) AppleWebKit/537.36 (KHTML, like Gecko) Silk/3.68 like Chrome/39.0.2171.93 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.104 AOL/9.8 AOLBuild/4346.13.US Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MAAU; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.74.9 (KHTML, like Gecko) Version/7.0.2 Safari/537.74.9
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A501 Safari/9537.53
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; MAARJS; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53
-Mozilla/5.0 (Windows NT 10.0; Trident/7.0; rv:11.0) like Gecko
-Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/7.0.55539 Mobile/12F69 Safari/600.1.4
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MASMJS; rv:11.0) like Gecko
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0
-Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36 OPR/31.0.1889.174
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; FunWebProducts; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MAARJS; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; BOIE9;ENUS; rv:11.0) like Gecko
-Mozilla/5.0 (Linux; Android 4.4.2; SM-T230NU Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; EIE10;ENUSWOL; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 5.1; rv:39.0) Gecko/20100101 Firefox/39.0
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:39.0) Gecko/20100101 Firefox/39.0
-Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; KFJWA Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Silk/3.68 like Chrome/39.0.2171.93 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36 OPR/31.0.1889.174
-Mozilla/5.0 (Linux; Android 4.0.4; BNTV600 Build/IMM76L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Safari/537.36
-Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; yie9; rv:11.0) like Gecko
-Mozilla/5.0 (Linux; Android 5.0.2; SM-T530NU Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 9_0 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A4325c Safari/601.1
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
-Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B466 Safari/600.1.4
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/7.0)
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0
-Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:39.0) Gecko/20100101 Firefox/39.0
-Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12D508 Safari/600.1.4
-Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/44.0.2403.67 Mobile/12H321 Safari/600.1.4
-Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0E; .NET4.0C)
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
-Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
-Mozilla/5.0 (PlayStation 4 2.57) AppleWebKit/537.73 (KHTML, like Gecko)
-Mozilla/5.0 (Windows NT 6.1; rv:31.0) Gecko/20100101 Firefox/31.0
-Mozilla/5.0 (Linux; Android 5.0; SM-G900V Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Mobile Safari/537.36
-Mozilla/5.0 (X11; Linux x86_64; rv:40.0) Gecko/20100101 Firefox/40.0
-Mozilla/5.0 (Linux; Android 5.1.1; Nexus 7 Build/LMY48I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; Touch; LCJB; rv:11.0) like Gecko
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:38.0) Gecko/20100101 Firefox/38.0
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; Touch)
-Mozilla/5.0 (Linux; Android 5.0.2; SM-T800 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; MASMJS; rv:11.0) like Gecko
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36
-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:39.0) Gecko/20100101 Firefox/39.0
-Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; TNJB; rv:11.0) like Gecko
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; ASJB; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
-Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG SCH-I545 4G Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36 OPR/31.0.1889.174
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; EIE10;ENUSMSN; rv:11.0) like Gecko
-Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/45.0.2454.68 Mobile/12H321 Safari/600.1.4
-Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MATBJS; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; MASAJS; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1; rv:41.0) Gecko/20100101 Firefox/41.0
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MALC; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 AOL/9.7 AOLBuild/4343.4049.US Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/33.0.0.0 Safari/534.24
-Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MDDCJS; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36 SE 2.X MetaSr 1.0
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E)
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E)
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:39.0) Gecko/20100101 Firefox/39.0
-Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; yie10; rv:11.0) like Gecko
-Mozilla/5.0 (Linux; Android 5.0; SAMSUNG-SM-G900A Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36
-Mozilla/5.0 (Linux; U; Android 4.0.3; en-gb; KFTT Build/IML74K) AppleWebKit/537.36 (KHTML, like Gecko) Silk/3.68 like Chrome/39.0.2171.93 Safari/537.36
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/8.0)
-Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; TNJB; rv:11.0) like Gecko
-Mozilla/5.0 (X11; CrOS x86_64 7077.111.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
-Mozilla/5.0 (Linux; Android 4.0.4; BNTV400 Build/IMM76L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; rv:37.0) Gecko/20100101 Firefox/37.0
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36 LBBROWSER
-Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
-Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36
-Mozilla/5.0 (Linux; Android 5.0; SAMSUNG SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
-Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.104 AOL/9.8 AOLBuild/4346.18.US Safari/537.36
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3; GWX:QUALIFIED)
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; MDDCJS; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.104 AOL/9.8 AOLBuild/4346.13.US Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 AOL/9.7 AOLBuild/4343.4043.US Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:23.0) Gecko/20100101 Firefox/23.0
-Mozilla/5.0 (Windows NT 5.1; rv:38.0) Gecko/20100101 Firefox/38.0
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.13 Safari/537.36
-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/44.0.2403.89 Chrome/44.0.2403.89 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A523 Safari/8536.25
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MANM; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/4.4.6.2000 Chrome/30.0.1599.101 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/8.0.57838 Mobile/12H143 Safari/600.1.4
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; MDDRJS)
-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.22 Safari/537.36
-Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; MATBJS; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
-Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:37.0) Gecko/20100101 Firefox/37.0
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.104 AOL/9.8 AOLBuild/4346.13.US Safari/537.36
-Mozilla/5.0 (Windows NT 5.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
-Mozilla/5.0 (X11; Linux x86_64; U; en-us) AppleWebKit/537.36 (KHTML, like Gecko) Silk/3.68 like Chrome/39.0.2171.93 Safari/537.36
-Mozilla/5.0 (X11; CrOS x86_64 6946.86.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.91 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; TNJB; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; Trident/7.0; MDDRJS; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/8.0.57838 Mobile/12F69 Safari/600.1.4
-Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; GIL 3.5; rv:11.0) like Gecko
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:41.0) Gecko/20100101 Firefox/41.0
-Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; LG-V410/V41010d Build/KOT49I.V41010d) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.1599.103 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14
-Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B411 Safari/600.1.4
-Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; MATBJS; rv:11.0) like Gecko
-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) Qt/4.8.1 Safari/534.34
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; USPortal; rv:11.0) like Gecko
-Mozilla/5.0 (iPad; CPU OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12H143
-Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:40.0) Gecko/20100101 Firefox/40.0.2 Waterfox/40.0.2
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; SMJB; rv:11.0) like Gecko
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
-Mozilla/5.0 (iPad; CPU OS 6_1_2 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B146 Safari/8536.25
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
-Mozilla/5.0 (MSIE 9.0; Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; Touch; TNJB; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 Safari/537.36 SE 2.X MetaSr 1.0
-Mozilla/5.0 (X11; FC Linux i686; rv:24.0) Gecko/20100101 Firefox/24.0
-Mozilla/5.0 (X11; CrOS armv7l 7262.52.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.86 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MASAJS; rv:11.0) like Gecko
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; MS-RTC LM 8; .NET4.0C; .NET4.0E)
-Mozilla/5.0 (Windows NT 6.1; Trident/7.0; yie11; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10532
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; BOIE9;ENUSMSE; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.2; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; InfoPath.3)
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)
-Mozilla/5.0 (Linux; Android 4.4.2; SM-T320 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/44.0.2403.67 Mobile/12H143 Safari/600.1.4
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
-Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/7.0.55539 Mobile/12H321 Safari/600.1.4
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; 360SE)
-Mozilla/5.0 (Linux; Android 5.0.2; LG-V410/V41020c Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/34.0.1847.118 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) GSA/7.0.55539 Mobile/11D257 Safari/9537.53
-Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F69
-Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.13 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E)
-Mozilla/5.0 (Linux; U; Android 4.4.3; en-us; KFTHWA Build/KTU84M) AppleWebKit/537.36 (KHTML, like Gecko) Silk/3.68 like Chrome/39.0.2171.93 Safari/537.36
-Mozilla/5.0 (Android; Mobile; rv:40.0) Gecko/40.0 Firefox/40.0
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36 SE 2.X MetaSr 1.0
-Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 AOL/9.7 AOLBuild/4343.4043.US Safari/537.36
-Mozilla/5.0 (Linux; Android 4.4.2; SM-P600 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (X11; Linux x86_64; rv:39.0) Gecko/20100101 Firefox/39.0
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; rv:35.0) Gecko/20100101 Firefox/35.0
-Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5355d Safari/8536.25
-Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.22 Safari/537.36
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; 360SE)
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; LCJB; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
-Mozilla/5.0 (X11; CrOS x86_64 6812.88.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.153 Safari/537.36
-Mozilla/5.0 (X11; Linux i686; rv:38.0) Gecko/20100101 Firefox/38.0
-Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; Touch; ASU2JS; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.65 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.13 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10) AppleWebKit/537.16 (KHTML, like Gecko) Version/8.0 Safari/537.16
-Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0
-Mozilla/5.0 (Linux; Android 5.0; SAMSUNG SM-N900V 4G Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 4.4.3; KFTHWI Build/KTU84M) AppleWebKit/537.36 (KHTML, like Gecko) Silk/44.1.81 like Chrome/44.0.2403.128 Safari/537.36
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E; GWX:QUALIFIED)
-Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) CriOS/45.0.2454.68 Mobile/11D257 Safari/9537.53
-Mozilla/5.0 (Windows NT 6.3; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/4.4.6.1000 Chrome/30.0.1599.101 Safari/537.36
-Mozilla/5.0 (Linux; Android 4.4.2; GT-P5210 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MDDSJS; rv:11.0) like Gecko
-Mozilla/5.0 (Linux; Android 4.4.2; QTAQZ3 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Linux; Android 4.4.2; QMV7B Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MATBJS; rv:11.0) like Gecko
-Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/6.0.51363 Mobile/12H321 Safari/600.1.4
-Mozilla/5.0 (iPad; CPU OS 8_1_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B436 Safari/600.1.4
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
-Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19.1
-Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12H321
-Mozilla/5.0 (Linux; U; Android 4.0.3; en-ca; KFTT Build/IML74K) AppleWebKit/537.36 (KHTML, like Gecko) Silk/3.68 like Chrome/39.0.2171.93 Safari/537.36
-Mozilla/5.0 (Windows NT 5.1; rv:30.0) Gecko/20100101 Firefox/30.0
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:40.0) Gecko/20100101 Firefox/40.0.2 Waterfox/40.0.2
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:38.0) Gecko/20100101 Firefox/38.0
-Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; LCJB; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; NISSC; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9) AppleWebKit/537.71 (KHTML, like Gecko) Version/7.0 Safari/537.71
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; Trident/7.0; MALC; rv:11.0) like Gecko
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.0.9895 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MSBrowserIE; rv:11.0) like Gecko
-Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG SM-N910V 4G Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.76 Safari/537.36
-Mozilla/5.0 (Windows NT 6.2; rv:40.0) Gecko/20100101 Firefox/40.0
-Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG SM-T530NU Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.2 Chrome/38.0.2125.102 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.65 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; LCJB; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.0; rv:39.0) Gecko/20100101 Firefox/39.0
-Mozilla/5.0 (Linux; Android 5.0.2; SM-T700 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG-SM-N910A Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; ASU2JS; rv:11.0) like Gecko
-Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:40.0) Gecko/20100101 Firefox/40.0
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20120101 Firefox/29.0
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
-Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.0.8) Gecko/2009032609 Firefox/3.0.8 (.NET CLR 3.5.30729)
-Mozilla/5.0 (X11; CrOS x86_64 7077.95.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.90 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/4.4.6.1000 Chrome/30.0.1599.101 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36 LBBROWSER
-Mozilla/5.0 (Windows NT 6.1; rv:36.0) Gecko/20100101 Firefox/36.0
-Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/7.0)
-Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/45.0.2454.68 Mobile/12B466 Safari/600.1.4
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; Win64; x64; Trident/6.0; .NET4.0E; .NET4.0C; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 2.0.50727)
-Mozilla/5.0 (Linux; Android 5.0.2; VK810 4G Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.76.4 (KHTML, like Gecko) Version/7.0.4 Safari/537.76.4
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:40.0) Gecko/20100101 Firefox/40.0
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; SMJB; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; Touch; MDDCJS; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; Trident/7.0; BOIE9;ENUS; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36 SE 2.X MetaSr 1.0
-Mozilla/5.0 (iPad; CPU OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/6.0.51363 Mobile/12H143 Safari/600.1.4
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:38.0) Gecko/20100101 Firefox/38.0
-Mozilla/5.0 (Windows NT 5.1; rv:41.0) Gecko/20100101 Firefox/41.0
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.76 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2503.0 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.50 (KHTML, like Gecko) Version/9.0 Safari/601.1.50
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3; GWX:RESERVED)
-Mozilla/5.0 (iPad; CPU OS 6_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B141 Safari/8536.25
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
-Mozilla/5.0 (Linux; Android 5.1.1; Nexus 7 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/45.0.2454.68 Mobile/12B440 Safari/600.1.4
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) MsnBot-Media /1.0b
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/7.0)
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.3; WOW64; Trident/7.0)
-Mozilla/5.0 (Linux; Android 5.1.1; SM-G920V Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Mobile Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; ASU2JS; rv:11.0) like Gecko
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 AOL/9.7 AOLBuild/4343.4049.US Safari/537.36
-Mozilla/5.0 (X11; CrOS x86_64 6680.78.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.102 Safari/537.36
-Mozilla/5.0 (Linux; Android 4.4.2; SM-T520 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/4.4.6.2000 Chrome/30.0.1599.101 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; Touch; MAARJS; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; MALNJS; rv:11.0) like Gecko
-Mozilla/5.0 (Linux; Android 4.4.2; SM-T900 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
-Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)
-Mozilla/5.0 (Windows NT 6.2; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.94 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/45.0.2454.68 Mobile/12D508 Safari/600.1.4
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:36.0) Gecko/20100101 Firefox/36.0
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2503.0 Safari/537.36
-Mozilla/5.0 (Linux; Android 4.1.2; GT-N8013 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Linux; U; Android 4.4.3; en-us; KFAPWA Build/KTU84M) AppleWebKit/537.36 (KHTML, like Gecko) Silk/3.68 like Chrome/39.0.2171.93 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:38.0) Gecko/20100101 Firefox/38.0
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MALCJS; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1; rv:30.0) Gecko/20100101 Firefox/30.0
-Mozilla/5.0 (Linux; Android 5.0.1; SM-N910V Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Mobile Safari/537.36
-Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1667.0 Safari/537.36
-Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B436 Safari/600.1.4
-Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/7.0.55539 Mobile/12B466 Safari/600.1.4
-Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A405 Safari/600.1.4
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Safari/537.36
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:37.0) Gecko/20100101 Firefox/37.0
-Mozilla/5.0 (Linux; Android 4.4.2; SM-T310 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.45 Safari/537.36
-Mozilla/5.0 (Linux; Android 5.1.1; Nexus 10 Build/LMY48I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; TNJB; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36
-Mozilla/5.0 (X11; CrOS x86_64 7077.123.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E)
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; 360SE)
-Mozilla/5.0 (Linux; Android 4.4.2; QMV7A Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53
-Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-Mozilla/5.0 (Linux; Android 5.0; SAMSUNG-SM-N900A Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 4.4.4; XT1080 Build/SU6-7.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Mobile Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MAARJS; rv:11.0) like Gecko
-Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/6.0.51363 Mobile/12F69 Safari/600.1.4
-Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MALNJS; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/4.4.6.2000 Chrome/30.0.1599.101 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; ASJB; rv:11.0) like Gecko
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_1) AppleWebKit/537.73.11 (KHTML, like Gecko) Version/7.0.1 Safari/537.73.11
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/7.0; TNJB; 1ButtonTaskbar)
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
-Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 635) like Gecko
-Mozilla/5.0 (iPad; CPU OS 5_0_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A405 Safari/7534.48.3
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:35.0) Gecko/20100101 Firefox/35.0
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
-Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N910P Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; rv:33.0) Gecko/20100101 Firefox/33.0
-Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12H321 [Pinterest/iOS]
-Mozilla/5.0 (Linux; Android 5.0.1; LGLK430 Build/LRX21Y) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/38.0.2125.102 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12H321 Safari
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/8.0; 1ButtonTaskbar)
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; NP08; NP08; MAAU; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 5.1; rv:37.0) Gecko/20100101 Firefox/37.0
-Mozilla/5.0 (Linux; Android 4.4.2; SM-T217S Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; EIE10;ENUSMSE; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.2; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0
-Mozilla/5.0 (Windows NT 5.1; rv:35.0) Gecko/20100101 Firefox/35.0
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
-Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:37.0) Gecko/20100101 Firefox/37.0
-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.76 Safari/537.36
-Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36 LBBROWSER
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-Mozilla/5.0 (Linux; Android 5.1; XT1254 Build/SU3TL-39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Mobile Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.13 Safari/537.36
-Mozilla/5.0 (Windows NT 6.2; Win64; x64; Trident/7.0; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/7.0.55539 Mobile/12B440 Safari/600.1.4
-Mozilla/5.0 (MSIE 10.0; Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
-Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/44.0.2403.67 Mobile/12F69 Safari/600.1.4
-Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36 OPR/31.0.1889.174
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
-Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG-SGH-I337 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 4.4.3; KFASWI Build/KTU84M) AppleWebKit/537.36 (KHTML, like Gecko) Silk/44.1.81 like Chrome/44.0.2403.128 Safari/537.36
-Mozilla/5.0 (X11; CrOS armv7l 7077.111.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A403 Safari/8536.25
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
-Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG SM-T800 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0 Chrome/38.0.2125.102 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
-Mozilla/5.0 (Linux; Android 5.0; SM-G900V Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Mobile Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; MAGWJS; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; Touch; MALNJS; rv:11.0) like Gecko
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1; Trident/7.0; ATT-IE11; rv:11.0) like Gecko
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36 OPR/31.0.1889.174
-Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36 SE 2.X MetaSr 1.0
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7) AppleWebKit/534.48.3 (KHTML, like Gecko) Version/5.1 Safari/534.48.3
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0E; .NET4.0C; .NET CLR 3.5.30729; .NET CLR 2.0.50727; .NET CLR 3.0.30729)
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.13 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; rv:32.0) Gecko/20100101 Firefox/32.0
-Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/8.0.57838 Mobile/12H321 Safari/600.1.4
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/7.0.55539 Mobile/12D508 Safari/600.1.4
-Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D167 Safari/9537.53
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0; MSN 9.0;MSN 9.1;MSN 9.6;MSN 10.0;MSN 10.2;MSN 10.5;MSN 11;MSN 11.5; MSNbMSNI; MSNmen-us; MSNcOTH) like Gecko
-Mozilla/5.0 (Windows NT 5.1; rv:36.0) Gecko/20100101 Firefox/36.0
-Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.0.9895 Safari/537.36
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/7.0; 1ButtonTaskbar)
-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.102 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 YaBrowser/15.7.2357.2877 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; BOIE9;ENUSMSNIP; rv:11.0) like Gecko
-Mozilla/5.0 AppleWebKit/999.0 (KHTML, like Gecko) Chrome/99.0 Safari/999.0
-Mozilla/5.0 (X11; OpenBSD amd64; rv:28.0) Gecko/20100101 Firefox/28.0
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1
-Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MAGWJS; rv:11.0) like Gecko
-Mozilla/5.0 (Linux; Android 4.4.2; GT-N5110 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/45.0.2454.68 Mobile/12B410 Safari/600.1.4
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.7) Gecko/20150824 Firefox/31.9 PaleMoon/25.7.0
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:31.0) Gecko/20100101 Firefox/31.0
-Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:39.0) Gecko/20100101 Firefox/39.0
-Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
-Mozilla/5.0 (iPhone; CPU iPhone OS 9_0 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13A4325c Safari/601.1
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; MS-RTC LM 8; InfoPath.3)
-Mozilla/5.0 (Linux; Android 4.4.2; RCT6203W46 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36
-Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:31.0) Gecko/20100101 Firefox/31.0
-Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 Safari/537.36
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; Tablet PC 2.0)
-Mozilla/5.0 (Windows NT 6.1; Trident/7.0; EIE10;ENUSWOL; rv:11.0) like Gecko
-Mozilla/5.0 (Linux; Android 4.4.4; en-us; SAMSUNG SM-N910T Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/2.0 Chrome/34.0.1847.76 Mobile Safari/537.36
-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
-Mozilla/5.0 (Linux; Android 4.4.2; RCT6203W46 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Linux; U; Android 4.0.4; en-ca; KFJWI Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Silk/3.68 like Chrome/39.0.2171.93 Safari/537.36
-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.22 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.45 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; rv:27.0) Gecko/20100101 Firefox/27.0
-Mozilla/5.0 (Linux; Android 4.4.2; RCT6773W22 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; ASJB; ASJB; MAAU; rv:11.0) like Gecko
-Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B367 Safari/531.21.10
-Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.7) Gecko/20150824 Firefox/31.9 PaleMoon/25.7.0
-Mozilla/5.0 (Linux; Android 5.0; SAMSUNG-SM-G870A Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 4.4.3; KFSOWI Build/KTU84M) AppleWebKit/537.36 (KHTML, like Gecko) Silk/44.1.81 like Chrome/44.0.2403.128 Safari/537.36
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)
-Mozilla/5.0 (Windows NT 5.2; rv:40.0) Gecko/20100101 Firefox/40.0
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.0.9895 Safari/537.36
-Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 AOL/9.7 AOLBuild/4343.4049.US Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; EIE10;ENUSMCM; rv:11.0) like Gecko
-Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-G920P Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.2 Chrome/38.0.2125.102 Mobile Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like Gecko)
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:35.0) Gecko/20100101 Firefox/35.0
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; MALCJS; rv:11.0) like Gecko
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
-Mozilla/5.0 (Windows NT 5.2; rv:29.0) Gecko/20100101 Firefox/29.0 /29.0
-Mozilla/5.0 (Linux; Android 5.0.2; SM-T550 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 AOL/9.7 AOLBuild/4343.4049.US Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 Safari/537.36 SE 2.X MetaSr 1.0
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E)
-Mozilla/5.0 (Linux; U; Android 4.0.3; en-gb; KFOT Build/IML74K) AppleWebKit/537.36 (KHTML, like Gecko) Silk/3.68 like Chrome/39.0.2171.93 Safari/537.36
-Mozilla/5.0 (Linux; Android 5.0.2; SM-P900 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Linux; Android 5.1.1; Nexus 9 Build/LMY48I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Linux; Android 4.4.2; SM-T530NU Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (X11; Linux i686; rv:40.0) Gecko/20100101 Firefox/40.0
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
-Mozilla/5.0 (Linux; Android 5.1.1; SM-T330NU Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/4.4.7.1000 Chrome/30.0.1599.101 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:34.0) Gecko/20100101 Firefox/34.0
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
-Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:35.0) Gecko/20100101 Firefox/35.0
-Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.22 Safari/537.36
-Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19.1
-Mozilla/5.0 (Android; Tablet; rv:34.0) Gecko/34.0 Firefox/34.0
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MALCJS; rv:11.0) like Gecko
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E)
-Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) GSA/8.0.57838 Mobile/11D257 Safari/9537.53
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.146 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; yie10; rv:11.0) like Gecko
-Mozilla/5.0 (Linux; Ubuntu 14.04) AppleWebKit/537.36 Chromium/35.0.1870.2 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; yie11; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36 SE 2.X MetaSr 1.0
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
-Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 Safari/537.36 SE 2.X MetaSr 1.0
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/8.0; TNJB; 1ButtonTaskbar)
-Mozilla/5.0 (Linux; Android 4.4.2; RCT6773W22 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safari/537.36
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E)
-Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2503.0 Safari/537.36
-Mozilla/5.0 (Linux; Android 5.0; SAMSUNG-SM-G900A Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Mobile Safari/537.36
-Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.0.8) Gecko/2009032609 Firefox/3.0.8 (.NET CLR 3.5.30729)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.65 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/4.4.7.1000 Chrome/30.0.1599.101 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; NP08; rv:11.0) like Gecko
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
-Mozilla/5.0 (Linux; Android 4.4.2; SM-T210R Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:40.0) Gecko/20100101 Firefox/40.0.2 Waterfox/40.0.2
-Mozilla/5.0 (Linux; Android 5.0; SAMSUNG SM-N900P Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36
-Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.104 AOL/9.8 AOLBuild/4346.18.US Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.22 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36
-Mozilla/5.0 (Linux; Android 5.0.2; SM-T350 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; ASU2JS; rv:11.0) like Gecko
-Mozilla/5.0 (Linux; Android 5.0.2; SM-T530NU Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/7.0; 1ButtonTaskbar)
-Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG-SM-G920A Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0 Chrome/38.0.2125.102 Mobile Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2503.0 Safari/537.36
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; 360SE)
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MAAU; MAAU; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
-Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0 Iceweasel/38.2.1
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MANM; MANM; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:37.0) Gecko/20100101 Firefox/37.0
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
-Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 AOL/9.7 AOLBuild/4343.4049.US Safari/537.36
-Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:38.0) Gecko/20100101 Firefox/38.0
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
-Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
-Mozilla/5.0 (Linux; Android 4.4.2; QTAQZ3 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.135 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12H321 OverDrive Media Console/3.3.1
-Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257
-Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) GSA/7.0.55539 Mobile/11D201 Safari/9537.53
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
-Mozilla/5.0 (Linux; Android 5.0.1; SCH-I545 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Mobile Safari/537.36
-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36
-Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Mobile Safari/537.36
-Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A365 Safari/600.1.4
-Mozilla/5.0 (Windows NT 5.1; rv:34.0) Gecko/20100101 Firefox/34.0
-Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; MDDCJS; rv:11.0) like Gecko
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
-Mozilla/5.0 (iPad;U;CPU OS 5_1_1 like Mac OS X; zh-cn)AppleWebKit/534.46.0(KHTML, like Gecko)CriOS/19.0.1084.60 Mobile/9B206 Safari/7534.48.3
-Mozilla/5.0 (Linux; Android 4.4.3; KFAPWI Build/KTU84M) AppleWebKit/537.36 (KHTML, like Gecko) Silk/44.1.81 like Chrome/44.0.2403.128 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) CriOS/45.0.2454.68 Mobile/11D201 Safari/9537.53
-Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
-Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/43.0.2357.61 Mobile/12H321 Safari/600.1.4
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MAMIJS; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
-Mozilla/5.0 (Linux; Android 5.0.1; VS985 4G Build/LRX21Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Mobile Safari/537.36
-Mozilla/5.0 (Windows NT 5.1; rv:33.0) Gecko/20100101 Firefox/33.0
-Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/45.0.2454.68 Mobile/12H143 Safari/600.1.4
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
-Mozilla/5.0 (Windows NT 6.0; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0
-Mozilla/5.0 (Linux; Android 5.0.2; LG-V410/V41020b Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/34.0.1847.118 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2503.0 Safari/537.36
-Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
-Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B435 Safari/600.1.4
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36
-Mozilla/5.0 (X11; Linux x86_64; rv:28.0) Gecko/20100101 Firefox/28.0
-Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:36.0) Gecko/20100101 Firefox/36.0
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.3; .NET4.0C; .NET4.0E)
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
-Mozilla/5.0 (Windows NT 5.2; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MDDRJS; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/4.4.6.2000 Chrome/30.0.1599.101 Safari/537.36
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.3; WOW64; Trident/6.0)
-Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-G920T Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.2 Chrome/38.0.2125.102 Mobile Safari/537.36
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3; MS-RTC LM 8)
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2503.0 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.91 Safari/537.36
-Mozilla/5.0 (Linux; Android 4.4.3; KFTHWI Build/KTU84M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/34.0.0.0 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
-Mozilla/5.0 (Linux; Android 4.4.3; KFSAWI Build/KTU84M) AppleWebKit/537.36 (KHTML, like Gecko) Silk/44.1.81 like Chrome/44.0.2403.128 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
-Mozilla/5.0 (Windows NT 5.1; rv:32.0) Gecko/20100101 Firefox/32.0
-Mozilla/5.0 (Linux; Android 4.4.2; SM-T230NU Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Safari/537.36
-Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
-Mozilla/5.0 (Linux; Android 4.2.2; SM-T110 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG SM-N910T Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E)
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Win64; x64; Trident/7.0)
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:33.0) Gecko/20100101 Firefox/33.0
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.99 Safari/537.36
-Mozilla/5.0 (Windows NT 6.2; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36
-Mozilla/5.0 (X11; CrOS armv7l 6946.86.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.94 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0 SeaMonkey/2.35
-http://www.useragentstring.com/Firefox25.0_id_19710.php
-Mozilla/5.0 (Linux; Android 4.4.2; SM-T330NU Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A8426 Safari/8536.25
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-Mozilla/5.0 (Linux; Android 5.0.2; LG-V410 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36 TheWorld 6
-Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/7.0.55539 Mobile/12B410 Safari/600.1.4
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; EIE10;ENUSWOL)
-Mozilla/5.0 (iPad; CPU OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/43.0.2357.61 Mobile/12H143 Safari/600.1.4
-Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/43.0.2357.61 Mobile/12F69 Safari/600.1.4
-Mozilla/5.0 (Linux; Android 4.4.2; SM-T237P Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; Trident/7.0; ATT; rv:11.0) like Gecko
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-Mozilla/5.0 (Linux; Android 5.0.2; SM-T800 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.133 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; Trident/7.0; EIE10;ENUSMSN; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; Touch; MATBJS; rv:11.0) like Gecko
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
-Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; LGMS323 Build/KOT49I.MS32310c) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.1599.103 Mobile Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; EIE11;ENUSMSN; rv:11.0) like Gecko
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/4.4.6.1000 Chrome/30.0.1599.101 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; rv:29.0) Gecko/20100101 Firefox/29.0
-Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/537.36 (KHTML, like Gecko)  Chrome/30.0.1599.114 Safari/537.36 Puffin/4.5.0IT
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; yie8; rv:11.0) like Gecko
-Mozilla/5.0 (Linux; U; Android 4.4.3; en-gb; KFTHWI Build/KTU84M) AppleWebKit/537.36 (KHTML, like Gecko) Silk/3.68 like Chrome/39.0.2171.93 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; Trident/7.0; FunWebProducts; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2505.0 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; MALNJS; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; BOIE9;ENUSSEM; rv:11.0) like Gecko
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0; Touch; WebView/1.0)
-Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:33.0) Gecko/20100101 Firefox/33.0
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
-Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG SPH-L720 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; Trident/7.0; yie9; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36
-Mozilla/5.0 (Linux; U; Android 4.4.3; en-us; KFSAWA Build/KTU84M) AppleWebKit/537.36 (KHTML, like Gecko) Silk/3.68 like Chrome/39.0.2171.93 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
-Mozilla/5.0 (compatible; Windows NT 6.1; Catchpoint) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20100101 Firefox/29.0
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:32.0) Gecko/20100101 Firefox/32.0
-Mozilla/5.0 (Windows NT 6.0; rv:38.0) Gecko/20100101 Firefox/38.0
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36
-Mozilla/5.0 (Linux; Android 4.4.4; Z970 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 5.1.1; Nexus 5 Build/LMY48I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Mobile Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/534.55.3 (KHTML, like Gecko) Version/5.1.3 Safari/534.53.10
-Mozilla/5.0 (X11; CrOS armv7l 6812.88.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.153 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36
-Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25
-Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; MAARJS; rv:11.0) like Gecko
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:36.0) Gecko/20100101 Firefox/36.0
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; )
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; Touch; MASAJS; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; MAARJS; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.13+ (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10; rv:33.0) Gecko/20100101 Firefox/33.0
-Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.134 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36 SE 2.X MetaSr 1.0
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 BIDUBrowser/7.6 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; MASMJS; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 10.0; Trident/7.0; Touch; rv:11.0) like Gecko
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E; 360SE)
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.3; .NET4.0C; .NET4.0E; MS-RTC LM 8)
-Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; MAGWJS; rv:11.0) like Gecko
-Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-G925T Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.2 Chrome/38.0.2125.102 Mobile Safari/537.36
-Mozilla/5.0 (X11; CrOS x86_64 6457.107.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; 360SE)
-Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4.17.9 (KHTML, like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3
-Mozilla/5.0 (Linux; Android 4.2.2; GT-P5113 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (X11; Linux i686; rv:24.0) Gecko/20100101 Firefox/24.0 DejaClick/2.5.0.11
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.154 Safari/537.36 LBBROWSER
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 Safari/537.36 SE 2.X MetaSr 1.0
-Mozilla/5.0 (Linux; Android 4.4.3; KFARWI Build/KTU84M) AppleWebKit/537.36 (KHTML, like Gecko) Silk/44.1.81 like Chrome/44.0.2403.128 Safari/537.36
-Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/8.0.57838 Mobile/12B466 Safari/600.1.4
-Mozilla/5.0 (Unknown; Linux i686) AppleWebKit/534.34 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/534.34
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; NP08; MAAU; NP08; rv:11.0) like Gecko
-Mozilla/5.0 (Linux; Android 4.4.2; LG-V410 Build/KOT49I.V41010d) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 Safari/537.36 SE 2.X MetaSr 1.0
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)
-Mozilla/5.0 (Windows NT 6.1; rv:28.0) Gecko/20100101 Firefox/28.0
-Mozilla/5.0 (X11; CrOS x86_64 6946.70.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; .NET4.0C; .NET4.0E)
-Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:33.0) Gecko/20100101 Firefox/33.0
-Mozilla/5.0 (iPod touch; CPU iPhone OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:38.0) Gecko/20100101 IceDragon/38.0.5 Firefox/38.0.5
-Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; managedpc; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; MASMJS; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
-Mozilla/5.0 (Linux; U; Android 4.0.3; en-ca; KFOT Build/IML74K) AppleWebKit/537.36 (KHTML, like Gecko) Silk/3.68 like Chrome/39.0.2171.93 Safari/537.36
-Mozilla/5.0 (Linux; Android 4.2.2; Le Pan TC802A Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) GSA/6.0.51363 Mobile/11D257 Safari/9537.53
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36 LBBROWSER
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:37.0) Gecko/20100101 Firefox/37.0
-Mozilla/5.0 (Windows NT 6.2; ARM; Trident/7.0; Touch; rv:11.0; WPDesktop; Lumia 1520) like Gecko
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.65 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0
-Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_6 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B651 Safari/9537.53
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; .NET4.0C; .NET4.0E)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E; 360SE)
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.103 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; .NET4.0C; .NET4.0E)
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:34.0) Gecko/20100101 Firefox/34.0
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.76 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.87 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; PRU_IE; rv:11.0) like Gecko
-Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/37.0.2062.120 Chrome/37.0.2062.120 Safari/537.36
-Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12H321 [FBAN/FBIOS;FBAV/38.0.0.6.79;FBBV/14316658;FBDV/iPad4,1;FBMD/iPad;FBSN/iPhone OS;FBSV/8.4.1;FBSS/2; FBCR/;FBID/tablet;FBLC/en_US;FBOP/1]
-Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36 OPR/31.0.1889.174
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; NP02; rv:11.0) like Gecko
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
-Mozilla/5.0 (X11; CrOS x86_64 6946.63.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:37.0) Gecko/20100101 Firefox/37.0
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.0.9895 Safari/537.36
-Mozilla/5.0 (Linux; Android 4.4.4; Nexus 7 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.84 Safari/537.36
-Mozilla/5.0 (Linux; Android 4.2.2; QMV7B Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; Touch; MASMJS; rv:11.0) like Gecko
-Mozilla/5.0 (compatible; MSIE 10.0; AOL 9.7; AOLBuild 4343.1028; Windows NT 6.1; WOW64; Trident/7.0)
-Mozilla/5.0 (Linux; U; Android 4.0.3; en-us) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.59 Mobile Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; Trident/7.0; Touch; TNJB; rv:11.0) like Gecko
-Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; Active Content Browser)
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E)
-Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
-Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0; WebView/1.0)
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36
-Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.91 Safari/537.36
-Mozilla/5.0 (iPad; U; CPU OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A334 Safari/7534.48.3
-Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/50.0.125 Chrome/44.0.2403.125 Safari/537.36
-Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E)
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
-Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MAARJS; rv:11.0) like Gecko
-Mozilla/5.0 (Linux; Android 5.0; SAMSUNG SM-N900T Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36
-Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/7.0.55539 Mobile/12H143 Safari/600.1.4
+83|-|39 K3 L^^()W^D=3 :D
+C|-|4M^4R M^4^D=4RC|-|^D=^() K3 84CC|-|3
+73R!! M^44 K48|-|^()X^D=4 F4^D= ^D=|_|983
+L^^()W^D=3 K3 84CC|-|3 :D
+K|_|S^R!! M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! M^44 K!! G49^D= 7^()^D= ^D=|_|9
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+73R!! M^44 K4 Y4R |-||_|9 M^3 :D
+G49^D=|_| M^4^D=4RC|-|^()^D= K3 84CC|-|3
+P|_|C|-| J4K4R 73R!! M^44 K^()
+K!! 73R!! M^44 K48|-|^()X^D=4 K!!S^93 F4^D=4 :D
+J!!S^K3 84^D=4|_|L^47 7|_| !!S^ ^D=|_|9!!Y4 P4R 44Y4 |-|X :D
+R49^D=!! K384CC|-|3 :D
+P4P4 K3 L^^()^D=3 K3 P49!! S^3 P4!!^D=4 |-|^() K4R
+P4P4 S^3 8|-|4KC|-|^()^D=!! K4R3G4 7|_| M^44 K3 L^^()^D=3 :D
+73R!! M^44 K^() K|_|7!!Y4 8494 K3 C|-|^()^D=|_|9G483
+L^^()W^D=3 3K84C|-|3 =]] :D
+73R!! M^44 K4 S^3X V!!^D=3^()  8494 K4R
+P|_|R3 F8 M^3 ^D=!!K|-|4|_|9G4
+M^^D=4RC|-|^D=^() K3 84CC|-|3 :D
+73R!! M^44 K48|-|X^()^D=4 M^4R|_|9
+M^44 K3 L^^()^D=3 :D
+73R!! R49^D=!! 83|-|39 K^() C|-|^()^D= C|-|^()^D= K3 P4G4L^ K4R ^D=|_|9 :D
+L^^()^D=3 M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! M^44 K4 8|-|X^()^D=4 F44^D= K3
+73R3 G4L^3 M^3 749G ^D=|_|9G4 :D
+M^44 K3 L^^()^D=3 X4L^3 8|-|4^D=W3 :D
+C|-|4M^4R M^4^D=4RC|-|^D=^() K3 84CC|-|3 :D
+P4P4 K4 L^^()^D=4 C|-||_|S^3G4 7|_|
+M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! M^44 K!! G49^D= M^3 L^^()^D=4 ^D=4L^|_|9
+83|-|39 K3 L^^()^D=3 :D
+73R!! 83|-|39 K^() 949G4 K4R K3
+8|-|4G4 8|-|G4 K3 C|-|^()^D=|_|9G4 :D
+X4L^3 M^4^D=RC|-|^D=^() K3 84CC|-|3 :D
+73R!! 83|-|39 K^() K^()7|-|3 M^38!!7|-|4 ^D=|_|9G4
+83 L^^()W^D=3 K3 84C|-|3 :D
+73R!! 83|-|39 K4 Y4R 4|_|R PY4R |-||_|9 M^3 
+83|-|39 K3 L^^()^D=3 X4L^3 :D
+73R!! 83|-|39 K!! C|-||_|7 M^3 94M^4K ^D=4L^ K3 C|-|^D=^()|_|G94
+83 L^^()W^D=3 K384|-|C3 :D
+K|_|S^R!! M^4^D=4RC|-|^D= K3 84CC|-|3 :D
+73R!! 83|-|39 K!! C|-||_|7 K^() 4!!S^3 C|-|^()^D=|_|9G4
+K!! C|-||_|7 F47 K4R C|-|48|_|7R4 849 J4Y3G4 :D
+L^^()W^D=3 K3 84C|-|3 X4L^3 :D
+73R!! M^4 4K^() 94^D=!! K3 K!!94R3 L^3 J4K4R C|-|^()^D=|_|9G4 :D
+M^^D=4RC|-|^()^D= K3 84CC|-|3 :D
+94^D=!! K3 94M^K!!9 P49!! 73R!! M^44 K!! C|-||_|7 M^3 ^D=4L^ K4R C|-|^()^D=|_|9G4 :D
+8|-|4G!! |-||_|!! R49^D=!! K3 84C|-|3 :D
+73R!! M^44 K^() C|-|^()^D= C|-|^()^D= K3 4!!S^3 F4M^^()|_|S^ K4R ^D=|_|9G4 K!! :D 
+8|-|4G!! |-||_|!! R49^D=!!Y^() K3 L^!!S^7 M^3 |_|S^K!! 94M^3 ^D=4RJ |-|^() J4Y3G!!
+83 L^^()W^D=3 K3 84C|-|3 :D
+73R!! M^44 K48|-|^()X^D=4 F4^D= K3 73R3 G4L^3 M^3 L^47K4 ^D=|_|9G4
+83|-|39C|-|^()^D= K3 ^D=!!93
+S^4L^3 R94^D=!! K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^4R|_|9
+M^44 K3 L^^()^D=3 :D
+C|-|4M^4R M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^3 P49 K|-|4 K4R 7|-||_|K ^D=|_|9G4
+L^^()W^D=3 K3 84CC|-|3 :D
+P4P4 K4 L^^()^D=4 L^3 M^|_|9|-| M^3 4|_|R
+J^()R J^()R S^3 C|-|!!L^L^4 M^^D=4RC|-|^D=^() K3 84CC|-|3 :D
+R49^D=!! K3 84CC|-|3
+G49^D=|_| M^44 K3 L^^()^D=3
+S^4L^3 K|_|S^R!! M^4^D=R4C|-|^D=^() K3 84CC|-|3 :D
+73R!! 83|-|39 K48|-|^()X^D=4 M^4R|_|9
+83 M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D 
+G49^D=|_| K3 84C|-|3 :D 
+C|-||_|^D=!! |-||_|!! R49^D=!! K3 84CC|-|3 :D
+73R!! 83|-|39 K3 L^!!Y3 3K K^()7|-|4 K|-|^()L^ ^D=|_|9G4
+M^4^D=4RC|-|^D=^() K3 48C3|-| :D
+K^()7|-|3 M^3 73R!! 83|-|39 R^()J C|-||_|^D=3G!!
+M^4^D=4RC|-|^D=^() K3 84CC|-|3 :D
+4|_|R |_|S^!! K^()7|-|3 K4 M^494G3R 7|_|J|-|3 8494 ^D=|_|9G4 :D
+L^^()W^D=3 M^4^D=4RC|-|^D=^() K3 84CC|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^3 K|-|!!R ^D=4L^ K3 C|-|^()^D=|_|9G4
+M^^D=44RC|-|^D=^() K3 84CC|-|3 :D
+G49^D=|_| M^44 K3 L^^()W^D=3 :D
+73R!! M^44 K!! C|-||_|7 M^3 L^47 M^4R|_|9G4
+M^^D=4RC|-|^D=^() K3 84CC|-|3 :D
+73R!! 83|-|39 K!! ^D=|_|^D=|_| M^3 C|-|!!M^74 L^4G4 ^D=|_|9G4
+M^^D=4RC|-|^D=^() K3 84CC|-|3 :D
+73R!! M^44 K^() G8 R^()4^D= K4 F4M^^()|_|S^ R49^D=!! 8494 ^D=|_|9G4
+L^^()^D=3 K3 84CC|-|3 :D
+73R!! M^44 K3 L^!!Y3 3K K^()7|-|4 K|-|^()L^ ^D=|_|9G4 G8 R^()4^D= P4R :D
+M^^D=4RC|-|^D=^() S^4L^3 
+8|-|4G!! |-||_|!! R49^D=!! K3 84CC|-|3 :D
+73R!! M^44 K^() P|_|8L^!!C PR^()P3R7Y 8494 ^D=|_|9G483
+L^^()W^D=3 K3 84C|-|3 :D
+K|_|S^R!! M^^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! 83|-|39 K3 G49^D= M^3 F!!R3 K4R|_|9
+M^44 K3 L^^()^D=3 :D
+|-|^()L^!! M^494|_|9G4 4J 73R!! 83|-|39 K!!8|-|^()X^D=3 M^3
+L^^()W^D=3 S^3 P!!C|-|K4R!! M^4R|_|9G4
+M^4^D=4RJ|-|47 K3 ^()L^4^D= :D
+R49^D=!! K3 84CC|-|3 44J 73R!! 83|-|39 K!!8|-|^()X^D=3 M^3 R49G ^D=4L^ K4R C|-|^()^D=|_|9G4
+83 L^^()W^D=3 K3 84CC|-|3 :D
+73R!! M^44 K3 K4M^4R P4R K4M^4R P47!! K|-|^()L^ K4R G|-||_|9GR^()^() ^D=4L^ ^D=|_|9G4 44|_|R C|-|^()^D=|_|9G4 :D
+M^4^D=4RC|-|^()^D= K3 84CC|-|3 73R3 G|-|4R M^3 |-|!! |_|S^3 C|-|^()^D=|_|9G4
+7^()|-| 7|_|J|-|3 L^4G3G4 G|-|4R M^38|-|4J49 K!!R749 C|-|4L^ R4|-|4 |-|X :D
+R49^D=!! K3 84CC|-|3 73R!! M^4484|-|47 C|-|!!L^L^47!! |-|X
+C|-||_|^D=73 W4Q7 G|-||_|9GR^()^() K3 4W4Z S^3 ^D=48 J4Y3G!! :D
+73R!! 83|-|39 K!!8|-|^()X^D=3 M^3 G|-||_|S^ J4|_|9G4
+M^4 4K3 L^^()^D=3 :D
+73R!! M^4 K!! C|-||_|7 K3 49^D=4R84!!7|-| K4R8|-|4J49 K!!R749 K4R|_|9G4
+73R!! 83|-|39 K!!8|-|^()X^D=4
+M^4^D=4RC|-|^D=^() K3 84CC|-|3 :D
+84|-|4R 7|_|J|-|3 C|-|4PR4S^!! K!! 74R4|-| K|-|4^D=4 K4R ^D=|_|9G4 :D
+7|_| M^4^D=4RC|-|^()^D= K3 84CC|-|3 C|-|4|_|K!!^D=4R!! K4R94 |_|^D=|-|4R :D
+L^^()W^D=3 M^^D=44RC|-|^()^D= K3 84CC|-|3 :D
+73R!!84J!! K!! K|_|S^S^ M^4R|_|9
+M^44 K3 L^^()^D=3 :D
+C|-|4M^4R K3 84CC|-|3 :D
+P4^D=^()S^!! K3 ^()L^4^D= :D
+K|_|773 S^3 C|-||_|^D=!! |-||_|!! R49^D=!! K3 84CC|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^3 Y^() Y^() |-|^()93Y S^!!9G|-| K4 ^D=V^D= ^D=4L^ ^D=|_|9G4
+M^^D=4RC|-|^D=^() K3 84CC|-|3 :D
+G94^D=|_| M^44 K3 L^^()^D=3 :D
+73R!! M^44 K!! C|-||_|7 K^() C|-|^()^D= C|-|^()^D= K3
+4!!S^384^D=4 K4R ^D=|_|9G4 K!! P|_|R3
+!!9^D=!!4 G|-||_|S^ J4Y3G4 |_|S^K3 49^D=4R :D
+M^4^D=4RC|-|^D=^() K3 84CC|-|3 :D
+73R!! M^44 K^() C|-|^()^D=3 ^()S^4M^483 L^^()W^D=3 K3 84CC|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^3 L^^()^D=4 ^D=4L^|_|9
+83|-|39 K3 L^^()^D=3
+C|-|4M^4R K3 84C|-|3 :D
+G94^D=|_|8|-|49G!! M^4^D=4RC|-|^D=^() K3 84CC|-|3 :D
+73R!! M^44 K^() K|_|774 C|-|^()^D=3 :D L^49G^D=4 K|_|774 :v
+8|-|49G!! K3 84C|-|3 :D
+73R!! M^44 K^() K|_|77^()9 93 C|-|^()^D= ^D=!!Y4 7|-|4
+748|-|!! 7^()|-| 73R3 J4!!S^3 3K K|_|774 J494M^ L^3 L^!!Y3
+|_|S^K3 K4L^3 K4L^38|-|^()X^D=3 S^3 :D
+M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+S^4L^3 K|_|77^()9 S^3 C|-||_|^D=!! |-||_|!! R49^D=!! K3 84CC|-|3 :D
+73R!! M^44 K^() L^|_|9 ^D=|_|9 :D
+M^44 K3 L^^()^D=3 :D
+C|-|4M^4R M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+73R!!84J!! K!! K|_|S^S^ M^4R|_|9
+G|-|4X7!! C|-|4M^4R K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 K^() C|-|!!R ^D=|_|9G4 :D
+P4P4 S^3 L^4^D=3G4 7|_|
+M^44 K3 L^^()^D=3 :D
+73R!! M^44 K!! G49^D= 7^()^D= ^D=|_|9G4
+M^4^D=4RC|-|^()^D=
+S^4L^3 R49^D=!! K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^3 L^^()^D=4 47K4 ^D=|_|9G4 :D
+C4|-|M^4R R49^D=!! K3 84C|-|3 :D
+73R!! M^44 K^() K|_|7!!Y4 8494 K3 C|-|^()^D=|_|9G4 :D
+M^4^D=4RC|-|^()^D= S^4L^3 :D
+C|-||_|^D=!! |-||_|!! R49^D=!! K3 84C|-|3 :D
+G49^D=|_| K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^4R|_|983 :D
+L^^()^D=3 M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+8|-|!!K4R!! M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! M^44 K4 Y4R |-||_|9 M^3 :D
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+G49^D=|_| M^44 K3 84C|-|3 :D
+P|_|C|-| J4K4R 73R!! M^44 K^() :D
+73R!! M^44 |-|!!8474 ^D=3G!! 7|_|J|-|3 :D
+K!! K!!S^K3 L^^()^D=3 K4 P49!! P!!K4R P4!!^D=4 K!! |-|X
+73R!! M^44 93 7|_|J|-|3 :D
+M^4^D=4RC|-|^()^D= S^4L^3 44J 7|_| P4P4 K4 L^^()^D=4 C|-||_|S^3G4 :D
+|_|S^!! P4P4 K4 L^^()^D=4 C|-||_|S^3G4 J!!S^ K3 P49!! S^3 9!!K4L^4 |-|X 7|_| :D
+73R!! M^44 K!! C|-||_|7 M^4R|_|9 :D
+M^44 K3 L^^()^D=3 :3
+S^4L^3 G|-|4X7!! K3 84C|-|3 :D
+73R!! M^44 K48|-|^()X^D=4 |_|^D=4 ^D=|_|9G4 C|-|^()^D= C|-|^()^D= K4R :D
+R49^D=!! K3 84CC|-|3 :D
+M^4^D=4RC|-|^()^D= ^D=4L^!!7 C|-|M^4R K3 ^()L^4^D= :D
+73R!! M^44 K!! F47!! C|-||_|7 M^3 L^447 M^4R|_|9G4 :D
+8|-|!!K4R!! M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! M^44 K^() 949G4 K4R K3 C|-|^()^D=|_|9G4 :D
+M^4^D=4RC|-|^()^D= S^4L^3
+R49^D=!! K3 84C|-|3 :D
+73R!! M^44 K4 Y4R |-||_|9 M^3 :D
+83|-|39 K3 L^^()^D=3 :D
+K|-|49JR!! M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+73R!! M^44 K!! F47!! C|-||_|7 M^3 L^47 M^4R|_|9
+C|-|4M^4R R49^D=!! K3 84CC|-|3 :D
+73R!! M^44 K48|-|^()X^D=4 M^4R|_|9 :D
+83|-|39 K3 L^^()^D=3 :D
+7|_| M^|_|J|-|3 L^!!K|-|94 S^!!K|-|4Y3G4 M^4^D=4RC|-|^()^D= :D
+G|-|4X7!! K3 84CC|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^4R94 S^!!K|-|4|_|9G4 44J 7|_|J|-|3 :D
+G49^D=|_| K3 84C|-|3 :D
+73R!! R49^D=!! M^44 K!! C|-||_|7 M^4R M^4R K3 S^|_|J|-|4 ^D=|_|9G4 :D
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+S^4L^3 R49^D=!! K3 84C|-|3 :D
+G49^D=|_| K3 84C|-|3 :D
+73R!! M^44 K48|-|X^()^D=4 :D
+K^()7|-|3 M^3 C|-||_|^D=93 W4L^!! R49^D=!! K3 84CC|-|3 :D
+73R!! M^44 7^()|-| K^()7|-|3 W4L^!! |-|X :D
+R49^D=!!849 G4Y!! |-|X 73R!! G|-|4X7!! M^44 C|-||_|^D= C|-||_|^D= K4R :D
+R49^D=!! K3 84C|-|3 :D
+R49^D=!! K3 K4M^4!! P4R F4M^!!L^Y C|-|4L^493 W4L^!! R49^D=!! K3 84CC|-|3 :D
+C|-||_|^D= C|-||_|^D= K4R F4M^^()|_|S^ R49^D=849 G4Y!! |-|X 73R!! M^44 :D
+M^4^D=4RC|-|^()^D= K3 84C|-|3
+S^4L^3 G|-|4X7!! K3 84CC|-|3 :D
+8|-|4G94 M^47 M^4^D=4RC|-|^()^D= :D
+4G4R8|-|4G4 7|_| 7^()|-| !!^()^()844P K4 :D
+L^^()^D=3 M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 C|-||_|^D=7!! J4Y3G!! 44J
+K4!!S^3 ^D=3K|-|73 J44 7|_|84S^ :D
+M^4^D=4RC|-|^()^D= K3 84C|-|3 S^4L^3
+G49^D=|_| M^44 K3 84C|-|3 :D
+73R!! M^44 K!! F47!! C|-||_|7 M^3 L^447 M^4R M^4R K3 S^|_|J|-|4 ^D=|_|9G4 :D
+73R!! M^44 K!! K|_|S^S^ M^4R|_|9 :D
+K|-|49JR!! K3 84C|-|3 :D
+73R!! R49^D=!! M^44 K!! K|_|S^S^ M^3 L^^()^D=4 ^D=|_|9 :D
+83|-|39 K3 L^^()^D=3 :D
+73R!!84J!! K!! K|_|S^S^ M^4R|_|9 :D
+C|-|4M^4R R49^D=!! K3 84CC|-|3 :D
+73R!!84J!! K!! C|-||_|7 M^3 L^^()^D=4 ^D=|_|9 :D
+83|-|39 K3 K|_|S^S^ S^4L^3
+M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 S^|_|J|-| G4Y!! KY4
+83|-|39 K3 ^D=4L^L^3 :D
+73R!! M^44 K48|-|^()X^D=4 |_|J4^D= ^D=|_|9G4 :D
+M^4^D=4RC|-|^()^D= S^4L^3
+R49^D=!! K3 84C|-|3 :D
+G49^D=|_| K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 F473G!! :D
+4|_|R 7|_| ^D=3K|-|74 R3|-| J4Y3G4 :D
+M^4^D=4RC|-|^()^D= S^4L^3 R49^D=!! K384CC|-|3 :D
+73R!! M^44 K!! F47!! C|-||_|7 ^D=3K|-| K4R 7|_|J|-|38|-|!! S^4R4M^ 44Y3G4 :D
+73R!! M^44 K^() !!794 C|-|^()^D=|_|9G4 K!!
+C|-|^()^D= C|-|^()^D= K3 M^4R J4Y3G4 7|_| :D
+M^4^D=4RC|-|^()^D= S^4L^3 R49^D=!! K3 84C|-|3 :D
+73R!! M^44 K!! F47!! C|-||_|7 P3 L^447 M^4R|_|9 :D
+M^44 K3 L^^()^D=3 :D
+G|-|4X7!! M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+S^4L^3 C|-||_|^D=!! |-||_|!! R49^D=!! K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^3 L^^()^D=4 ^D=|_|9
+83|-|39 K3 L^^()^D=3 :D
+L^!!K|-| M^44 K3 L^^()^D=3 :D
+C|-|4M^4R R49^D=!! K3 84CC|-|3 :D
+44J 7|_|J|-|3 7YP!!9G S^!!K|-|474 |-||_|9 :D
+^D=4L^L^!! M^44 K3 84C|-|3 :D
+M^4^D=4RC|-|^()^D= S^4L^3
+K|_|S^R!! M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^3 L^^()^D=4 ^D=|_|9
+8383|-|39C|-|^()^D= K3 84C|-|3 :D 
+73R!! K|_|S^R!! M^44 K!! C|-||_|7 |_|^D=4 ^D=|_|9 C|-|^()^D= C|-|^()^D= K4R :D
+L^|_|9^D= ^D=4L^ K3 S^^() J4|_|9G4
+73R!! M^44 K!! C|-||_|7 M^3 :D
+73R!! M^44 K!! C|-||_|7 M^3 L^|_|9^D= ^D=4L^ K3 S^^() J4|_|9 :D
+R49^D=!! K3 84C|-|3 :D
+K4L^4P K4!!S^3 R4|-|4 |-|X ^D=3K|-|^()83|-|39C|-|^()^D= K^() :D
+4!!S^3 K4L^P3G4 7|_|
+M^4^D=RC|-|^()^D= K3 84C|-|3 :D
+R49^D=!! K3 J493 :D
+K|_|77!! M^44 K3 84C|-|3 :D
+K4L^4P K4L^4P K3 M^4R3G4 7|_|
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+S^4L^3 R49^D=!! M^44 K3 84C|-|3 :D
+73R!! R49^D=!! M^44 K!! C|-||_|7 M^4R94 |-|!! S^^()C|-|4 7|-|4 M^4!!93 :D
+44J 73R!! R49^D=!! M^44 C|-||_|^D=3G!! 4|_|R |_|S^K!! C|-||_|7 F473G!! :D
+4M^^D=4RC|-|^()^D= K3 84CC|-|3 :D
+7|_|84S^ C|-||_|P C|-|4P ^D=3K|-|74 J44
+K4!!S^3 C|-||_|^D=7!! |-|X 73R!! R49^D=!! M^44 :D
+|_|S^K!!8|-|^()X^D=4 F47 K3 G49^D=849 J4Y3G4 :D
+4|_|R G49^D= F47 K38|-|^()X^D=4849 J4Y3G4 :D
+73R!! M^44 K!! C|-||_|7 M^3 L^^()^D=3 K484RS^47 K4RW4 ^D=|_|9 44J :D
+73R!! M^44 K!! K|_|S^S^ M^4R|_|983
+L^^()W^D=3 K3 84C|-|3 :D
+K|-|49J4R!! M^4^D=RC|-|^()^D= K3 84C|-|3 :D
+73R!! M^44 K48|-|^()X^D=4 |_|J4^D= ^D=|_|9
+83|-|39C|-|^()^D= K3 84C|-|3 :D
+73R!! R49^D=!! M^44 K!! C|-||_|7 M^3 L^^()^D=4 ^D=4L^ K3 J|-|47 K4 M^4R|_|9G4
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+73R!! K|_|S^R!! M^44 K!! C|-||_|7 M^4R|_|9 :D
+M^44 K3 L^^()^D=3 :D
+R49^D=!! K3 84C|-|3 :D
+73R!! M^44 K!! G49^D= M^3 F!!R3 K4R|_|9 :D
+M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+4K 47 S^3 F!!R3 K4R|_|9 73R!! R49^D=!! M^44 K!! K4L^3 K4L^38|-|^()X^D=3 M^3 :D
+|_|^D=4 ^D=|_|9G4 C|-|^()^D= C|-|^()^D= K4R
+73R!! M^44 K48|-|X^()^D=4
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+K4L^P|_| M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+4!!S^3 K4L^P3G4 7|_|83|-|39C|-|^()^D= K3 ^D=!!93
+S^4L^3 G|-|4X7!! K3 84C|-|3 :D
+73R!! R49^D=!! M^44 K!! C|-||_|7 M^3 S^4R!!Y4 ^D=4L^ ^D=|_|9
+83|-|39 K3 L^^()^D=3 :D
+S^4L^3 G|-|4X7!! C|-|4M^4R K3 ^()L^4^D= :D
+M^4^D=4RC|-|^()^D= K3 84C|-|3
+S^4L^3 R94^D=!! K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^4R|_|9 :D
+73R!! M^44 K!! C|-||_|7
+M^^D=44RC|-|^()^D= K3 84C|-|3 :D
+L^!!K|-| S^4L^3 R49^D=!! M^44 K3 84C|-|3 :D
+S^4L^3 ^D=4L^!!7 M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^4R|_|9 M^44 K3 L^^()^D=3
+S^4L^3 M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+L^!!K|-|94 74K8|-||_|L^ G4Y4 M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+48|-|!! S^3 73R!! |-|47|-| K49P R4|-|4 |-|X KY4
+R49^D=!! K3 84C|-|3 :D
+73R!!84J!! K!! K|_|S^S^ M^3 L^^()^D=4 ^D=|_|9 :D
+83|-|39C|-|^()^D= K3 ^D=!!93 S^4L^3
+G|-|4X7!! M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+73R!!84J!! K!! K|_|S^S^ M^4R|_|9
+L^^()W^D=3 K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^3 L^^()^D=4 47K4 K3 S^^() J4|_|9G4 M^3 :D
+M^4^D=4RC|-|^()^D= K3 84C|-|3 5 ^D=!!9 74K |_|7|-||_|9G48|-|!! 94!! :D
+73R!! M^44 C|-||_|^D=7!! R4|-|3G!! 5 ^D=!!9 74K R49^D=!! K3 84C|-|3 :D
+F33L^ K4R M^4^D=4RC|-|^()^D= :D
+73R!! M^44 K!! C|-||_|^D=4!! F33L^ K4R :D
+73R!! M^44 K4!!S^3 C|-||_|^D= R4|-|!! |-|X
+4|_|R 7|_| K4!!S^3 K4L^4P R4|-|4 |-|X
+R49^D=!! K3 84C|-|3 :D
+73R!! M^44 K48|-|X^()^D=4 F47 C|-||_|K4 |-|X :D
+4|_|R |_|S^!! F4738|-|^()X^D=3 K^() ^D=3K|-| K4R K4!!S^3 R^() R4|-|4 |-|X 7|_| ^D=3K|-| :D
+M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+4!!S^3 R^()Y3G4 7|_|
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+R49^D=!! K3 84C|-|3 :D
+G49^D=|_| M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! R49^D=!! M^44 K!! C|-||_|7 M^4R|_|9 :D
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+73R!! M^44 K^() C|-|^()^D= C|-|^()^D= K3 G48|-|!!9 8494 ^D=|_|983
+L^^()W^D=3 K3 84C|-|3 :D
+K|_|S^R!! S^4L^3
+R49^D=!! K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^3 L^^()^D=4 47K4 ^D=|_|9G4
+83|-|39C|-|^()^D= K3 ^D=!!93
+S^4L^3 R94^D=!! K3 84C|-|3 :D
+G49^D=|_| K3 84C|-|3 :D
+73R!! R49^D=!! M^44 K!! F47!! C|-||_|7 M^3 L^47 M^4R|_|9
+M^44 K3 L^^()^D=3 :D
+C|-|4M^4R M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+G49^D=|_| S^4L^38|-|!!K4R!!
+M^4^D=R4C|-|^()^D= K3 84C|-|3 :D
+K4L^4P K4L^4P K4R R^()Y3G4 7|_|
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+73R!! M^44 K!! C|-||_|7 F473G!! 
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+73R!!84J!! K!! K|_|S^S^ M^3 P49 K|-|4 K4R 7|-||_|K ^D=|_|9G4 :D
+R49^D=!! K3 84C|-|3 :D
+73R!!84J!! K!! K|_|S^S^ K4!!S^4 ^D=!!K|-|3G!!
+F33L^ K4R 7|-|^()^D=4 :D
+R49^D=!! M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+R4!!98^()W K3 7 C^()L^^()R J4!!S^3 8494 ^D=|_|9G4 73R!!84J!! K!! K|_|S^S^ K^()
+R49^D=!! K3 84C|-|3 :D
+G49^D=|_| S^4L^3
+8|-|!!K4R!! K3 84C|-|3 :D
+|-|4|-|4|-|4|-|4 48 R^() P4^D=4 M^4^D=4RC|-|^()^D= K4!!S^3 ^D=3K|-|^() :D
+48|-|!! S^3 R^() P4^D=4 M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+73R!! M^44 7^()|-| F4S^7L^Y C|-||_|^D= R4|-|!! |-|X 944 :D
+7|_|J|-|3 F4RK KY|_|9 P4^D= R4|-|4 |-|X M^4^D=4RC|-|^()^D= :D
+4!!S^3 R^()Y3G4 7|_|
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+73R!! M^44 K^()84^D=!! K|-||_|S^!! M^!!L^ R4|-|!! |-|X
+4|_|R 7|_|J|-|3 R^()94 44 R4|-|4 |-|X :v
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+48 !!794 R^() P4^D=4 K!! |-|4R84R8^()L^ R4|-|4 |-|X L^!!K|-| L^!!K|-| :D
+73R!! M^44 K!! K|_|S^S^ M^3 L^!!K|-||_|9 KY4 R49^D=!! K3 84C|-|3 :D
+|-|4|-|4|-|4 K4L^4P K3 4!!S^48^()L^ R4|-|4 |-|X Y48^()L^ K3
+K4L^4P R4|-|4 |-|X R49^D=!! K384CC|-|3 :D
+73R!!84J!! K!! K|_|S^S^ M^3 K!!S^!! 93 L^^()^D=4 47K4 ^D=!! KY4
+J^() !!S^ 74R4|-| R^() R4|-|4 |-|X 7|_| :P
+R49^D=!! K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^3 L^^()^D=4 ^D=|_|9 :D
+83|-|39 K3 L^|_|9^D= :D
+F47!! C|-||_|7 S^3 9!!KL^4 |-||_|4 74774 :D
+73R!! M^44 K!! K|_|S^S^ F4^D= K3 7|_|J|-|3
+F!!R S^3 49^D=4R G|-||_|S^4 ^D=|_|9G4 :3
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+7|_| J4|-|49 S^3 9!!KL^4 7|-|4 |_|^D=|-|4R F!!R S^3 G|-||_|S^ J4Y3G48!! 
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+P4P4 S^3 L^4^D=3G4 Y3 M^4^D=4RC|-|^()^D= 74774 :D
+4|_|K47L^3XX R49^D=!! K3 84C|-|3 :D
+4|_|K47 8494 M^4^D=4RC|-|^()^D= :D
+P4P4 S^3 L^4^D=|-|93 K3 L^!!Y3 J!!GR4 C|-|4|-|!!Y3 :D
+83|-|39 K3 L^^()^D=3 :D
+W^() J!!GR4 73R!! M^44 K!! C|-||_|7 M^3 |-|X J^() J!!GR4 M^3R3 L^^()^D=3 M^3 |-|X :D
+M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+J48 M^3R3 L^^()^D=3 G|-||_|S^74 |-|X 73R!! M^44 K!! C|-||_|7 M^3 748 J^() 749^D=48 |-|^()74 |-|X |_|S^3 K3|-|73 |-|X J!!GR4 :D
+M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! M^44 K!! G49^D= M^3 ^D=49^D=3 G|-||_|S^3^D= ^D=|_|9 :D
+83|-|39 K3 L^^()^D=3]
+S^4L^3 C|-|4M^4R K3 84C|-|3 :D
+73R!! M^44 K^() !!794 C|-|^()^D=|_|9G4 K!! R^() P4^D=3G!! 73R!! M^44 :D
+73R!! M^44 K3 F473 G49^D= ^D=3K|-| K4R 73R3844P8|-|!!8^()L^3G4 K!! Y3 K!!S^S^3 C|-||_|^D=4 ^D=!!Y4 7|_|93 :D
+S^4L^3 R49^D=!! K3 84C|-|3 :D
+G49^D=|_| M^44 K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^3 L^^()^D=3 K384R!!S^|-| K4R|_|9 :D
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+S^4L^38|_|R M^4R!! K3 84C|-|3 :D
+73R!! M^44 K!! F47!! C|-||_|7 M^3 L^^()^D=4 47K4 K3 S^^() J4|_|9 R4478|-|4R :D
+73R!! M^44 K!! C|-||_|7 M^3 L^^()^D=4 ^D=4L^|_|9
+83 L^^()W^D=3 K3 84C|-|3 :D
+K|_|S^R!! M^4^D=RC|-|^()^D= K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^4R|_|9 :D
+73R!! M^44 K!! G49^D= M^3 94M^4K M^!!RC|-|!! ^D=4L^ K3 C|-|^()^D=|_|9 :D
+7^()|-| 73R!! R49^D=!! M^44 K4!!S^!! F33L^ K4R3G!!8474 M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^3 4!!S^3 J|-|47K3 ^D=|_|9G4 K!! M^4R3G!! K!! 94!! 73R!! M^44 :D
+M^4^D=4RC|-|^D=^() K3 84CC|-|3 :D
+F33L^ K4R M^4^D=4RC|-|^()^D=
+S^4L^3 R49^D=!! K3 84C|-|3 :D
+G49^D=|_| K3 84C|-|3 :D
+C|-||_|7 K3 P49!! P!!93 W4L^3 C|-|4M^4R R49^D=!! K3 84C|-|3 :D
+L^!!K|-| M^4^D=RC|-|^()^D= S^4L^3 :D
+S^L^^()W 7YP3R R94^D=!! K3 84C|-|3 :D
+73R!! M^4 4K!! C|-||_|7 M^3 L^!!K|-| 44J 7|_| :D
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+73R!! M^44 K!! C|-||_|7 M^3 M^3R4 L^^()^D=4 G|-||_|S^3G4
+4|_|R 7|_| K4L^4P |_|7|-| K4R L^!!K|-|3G4 :D
+83|-|39 K3 L^|_|9^D= :D
+S^4L^3 R49^D=!! K3 84C|-|3 :D
+G49^D=|_| M^44 K3 84C|-|3 :D
+73R!! M^44 K!! F47!! C|-||_|7 M^3 L^^()^D=4 ^D=|_|9
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+K4|-|49 G4Y4 M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+L^!!K|-|948|-||_|L^ G4Y4 KY4 7|_|83|-|39 K3 L^^()^D=3 :D
+C|-|M^4R M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D 73R!! M^44 K!! C|-||_|7 F47 G4Y4 KY4 J^() 94S^|-| G4Y4 7|_| :D
+83|-|39 K3 L^^()^D=3 :D
+S^4L^3 G|-|4X7!! M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+73R!! M^44 C|-||_|^D= G4Y!! KY483 O.o 
+83|-|39|-|C^()^D= K3 ^D=!!93 :D
+73R!! M^44 K^() C|-||_|^D=4 L^3 48
+R49^D=!! K3 J493 :D
+73R!! M^44 K!! C|-||_|7 M^3 M^|_|7|-| M^4R|_|9 :D
+M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+G49^D=|_| K3 84C|-|3 :D
+73R!! R49^D=!! M^44 K48|-|^()X^D=4 M^4R|_|9 :D
+M^44 K3 L^^()^D=3 :D
+C|-|4M^4R R49^D=!! K3 84C|-|3 :D
+G49^D=|_| M^44 K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 K^()8|-|4G48|-|4G4 K3 C|-|^()^D=|_|9G4 :P
+P4P4 S^3 L^^()^D=384J!! K4R3G4 :O
+83|-|39C|-|^()^D= K3 84C|-|3 :D
+73R!!84J!! K!! K|_|S^S^ M^4R|_|9 M^44 K3 L^^()^D=3 :D
+K4!!S^3 K4L^4P G4Y4 M^4^D=4RC|-|^()^D= ^D=3K|-|^() :D
+R49^D=!! K3 84C|-|3 :D
+P4P4 S^3 L^4^D=|-|93 44Y4 |-|X83|-|39C|-|^()^D= K3 ^D=!!93 :v
+4!!S^3 R^()Y3G4 7|_|83|-|39 K3 L^^()^D=3 :D
+73R!! M^44 M^|_|JR4 K4R R4|-|!! |-|X KY4 J^() 7|_| ^D=3K|-| K4R F33L^ K4R R4|-|4 |-|X :O 3:)
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+M^4^D=4RC|-|^()^D= K3 ^D=!!93
+73R!! M^44 K!! C|-||_|7 M^4R|_|9 :D
+49^D=|-|4 |-|^() G4Y4 M^4^D=RC|-|^()^D= C|-||_|^D= C|-||_|^D= K4R :D
+P4P4 K^() ^D=3K|-|8|-|!! 94!! P44 R4|-|4 |-|X
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+4!!S^3 R^()Y3G4 7|_|83|-|39 K3 L^^()^D=3 :D
+48|-|!! 74K 73R!! M^44 K!! C|-||_|^D=4!! 7|-|!!K S^3 S^|_|R|_|8|-|!! 94!! K!!
+4|_|R 7|_| 7^()|-| R^() P4^D=483|-|39 K|_|S^S^ K3 84C|-|3 :D
+73R!! R49^D=!! M^44 K!! C|-||_|7 M^4R|_|9
+M^44 K3 L^^()^D=3 :D
+C|-|4M^4R R49^D=!! K3 84C|-|3
+G49^D=|_| K3 84CC|-|3 :D
+R49^D=!! K3 84C|-|3 :D
+8|-|4G8|-|4G K3 C|-||_|^D=3G4 7|_|83|-|39 K3 L^^()^D=3 :D
+^D=4L^L^3 M^4^D=RC|-|^()^D= K3 84CC|-|3 :D
+73R!! R49^D=!! M^44 K!! C|-||_|7 M^4R K3 S^|_|J|-|4 ^D=|_|9G4
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+K|_|7!!Y3 K3 P!!L^L^3 :D
+73R!! M^44 K48|-|X^()^D=4 M^4R|_|983 M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D 
+L^^()^D=3 S^4L^383|-|39 K3 L^^()^D=3 
+C|-|4M^4R M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+G49^D=|_| K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^3 G4R4M^ S^4R!!Y4 ^D=4L^|_|9
+83|-|39 K3 L^^()^D=3 :D
+73R!! R49^D=!!83|-|39 K4 M^|_|JR4 K4RW4 ^D=|_|9 S^48 K3 S^4M^93 :v
+R49^D=!! K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 K^() K47 K3 K|-|4 J4|_|9G4 :3 
+M^44 K3 L^^()^D=3 :D
+G|-|4X7!! M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! M^44 K^()8|-|4G48|-|G4 K3 C|-|^()^D=|_|9
+83|-|39 K3 L^^()^D=3
+C|-|4M^4R R49^D=!! K3 84C|-|3 :D
+G4W4R R49^D=!! K3 84C|-|3 :D
+73R!! M^44 7^()|-| G4W4R |-|X |-|!! S^47|-| M^3 73R!! 83|-|398|-|!! G4W4R R49^D=!! |-|X :D
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+P|_|R3 K|-|49^D=49 G4W4R |-|^() KY483|-|39 K3 L^^()^D=^() :D
+7|_|M^ S^48 K!! M^44 K!! C|-||_|7 M^3 L^^()^D=4 ^D=|_|9
+S^4L^^() G4W4R K384C|-|^() :D
+73R!! M^44 K!! C|-||_|7 M^4R|_|9 M^44 K3 L^^()^D=3
+C|-||_|^D=!! |-||_|!! R49^D=!! K3 84C|-|3
+G49^D=|_| M^44 K3 84C|-|3 :D
+J|-|477|_| C|-|4M^4R K3 ^()L^4^D= :D
+4!!S^3 L^!!K|-|3G4 7|_| M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^4R|_|9 M^4^D=4RC|-|^()^D= S^4L^3 :D
+R49^D=!! 8494 K3 C|-|^()^D= K3 F3K ^D=|_|9G4
+73R!! R49^D=!! M^44 K^() 4|_|R C|-|^()^D=93 K3844^D= P4!!S^48|-|!! 94!! ^D=|_|9G4 |_|S^3 :D
+K4L^4P7!! |-||_|!! R49^D=!! K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 S^|_|J|-|3G!! 44J8!!
+S^4L^3 R49^D=!! K3 84C|-|3 G49^D=|_| K3 84C|-|3 :D
+73R!! M^44 K!! K|_|S^S^ M^4R|_|9 :D
+M^4^D=4RC|-|^()^D= S^4L^3 R49^D=!! K3 J493 :D
+73R!! M^44 K!! C|-||_|7 M^4R|_|9
+83|-|39 K3 L^^()^D=3 :D
+73R3 P|_|R3 K|-|49^D=49 K^() 73R3 S^4M^93 K|-|4^D=3 K|-|4^D=3 C|-|^()^D= ^D=|_|9G4
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+73R!! R49^D=!! M^44 K48|-|^()X^D=4 F4^D=|_|9
+K|_|S^R!! M^4^D=4RC|-|^()^D= K3 84CC|-|3
+73R!! M^44 K!! C|-||_|7 M^3 C|-||_|M^M^4 ^D=|_|9
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+R^() R^() K3 C|-||_|^D=3G4 7|_| :3
+73R!! M^44 C|-||_|^D=7!! J4Y3G!! 4|_|R 7|_| ^D=3K|-|74 J4Y3G483|-|39C|-|^()^D= K3 ^D=!!93 ;)
+73R!! M^44 K4!!S^3 C|-||_|^D=3G!!84S^ 44J 7|_| ^D=3K|-|74 J44
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+73R!! M^44 K!! C|-||_|7 F473G!! 44J
+83|-|39 K3 L^^()^D=3 :D
+L^!!K|-| S^4L^3 R49^D=!! K3 84CC|-|3 :D
+G49^D=|_| M^44 K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 S^|_|J|-|3G!! F!!R8|-|!! 94!! L^!!K|-| P4Y3G4 7|_|
+L^!!K|-| 944 M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+94S^|-| G4Y4 KY4 7|_|
+73R!! R49^D=!! M^448|-|!! 94S^|-| J47!! |-|X84|-|47 J4L^^D=!!
+83|-|39 K3 L^^()^D=3 :D
+L^^()^D=4 M^4R ^D=374 |-||_|9 7^()|-| R^() P4^D=7!! |-|X 73R!! M^44 K!! C|-||_|78|-|!! :D
+4!!S^3 R^()Y3G4
+M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! R49^D=!! M^44 K!! C|-||_|7 M^3 7|_|J|-|S^3 JY4^D=4 ^D=|_|M^ |-|X :v 
+G|-|4X7!! M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! M^44 K!! K|_|S^S^ M^3 L^^()^D=3 K484RS^47 K4R|_|9 :D
+83|-|39C|-|^()^D= K3 ^D=!!93
+73R!! M^44 K!! C|-||_|7 M^4R|_|9 S^4L^3
+R49^D=!! K3 84C|-|3 :D
+73R!! M^44 K48|-|X^()^D=4 S^|_|J|-|4 ^D=|_|983 L^^()W^D=3 K3 84C|-|3 :D
+S^4L^3 K|_|7!!Y3 M^4^D=R4C|-|^()^D= K3 J493 :D
+73R!! M^44 K!! C|-||_|7 M^3 L^^()^D=4 ^D=|_|9 :D
+83|-|39C|-|^()^D= K3 ^D=!!93
+L^!!K|-| 944837!!C|-|^()^D= S^4L^3
+R49^D=!! K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^3 44G L^4G4 ^D=|_|9G4 :D
+L^^()^D=3 S^4L^3 R49^D=!! K3 84CC|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^3 P37R^()L^ ^D=4L^ K3 44G L^4G4 K38|-|4G J4|_|9G4 :D
+M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 S^|_|J|-|4 ^D=|_|9 L^^()^D=4 M^4R M^4R K3 
+C|-||_|7!!Y3 K3 P!!L^L^3 :D
+73R!! R49^D=!! M^44 K!! C|-||_|7 M^4R|_|9
+M^44 K3 L^^()^D=3 :D
+C|-|4M^4R K3 84C|-|3 :D
+G49^D=|_| K3 84CC|-|3 :D
+M^44^D=R4C|-|^()^D= K3 84C|-|3 :D
+73R!! M^44 K48|-|X^()^D=4 M^4R|_|9
+C4|-|M^4R K3 84C|-|3 :D
+G49^D=|_| M^44 K3 84C|-|3 :D
+8|-|!!K4R!! M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+K|_|S^R!! K3 84C|-|3 :D
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+R49^D=!! M^44 K3 L^^()^D=3
+C|-|4M^4R M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+|-|4|-|4|-|4 94S^|-| G4Y4 |-|X M^4^D=4RC|-|^()^D= 49^D=|-|4849 G4Y4 |-|X C|-||_|^D= C|-||_|^D= K4R :D
+L^^()^D=3 M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+L^^()^D=4 P474K ^D=!!Y4 73R3 S^4R M^3 J^() 4!!S^3 R^() R4|-|4 |-|X
+K|_|S^R!! K3 84C|-|3 :D
+48|-|!! S^3 R^()93 L^4G G4Y4 M^4^D=4RC|-|^()^D= K3 84CC|-|3 :o
+G49^D=|_| K3 84C|-|3 :D
+|-|4|-|4|-|4|-|4 L^!!K|-| S^4L^3 R49^D=!! K3 J493 :D
+73R!! M^44 K!! C|-||_|7 L^!!K|-| 94483|-|39C|-|^()^D= K3 ^D=!!93 :D
+73R!! 83|-|39 K!! K|_|S^S^83 L^^()^D=3 K3 84CC|-|3 :D
+L^!!K|-|948|-||_|L^ G4Y4 7|_| 7^()|-| :(
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+R^() R^() K3 L^!!K|-| R4|-|4 |-|X
+R49^D=!! K3 J493 :D
+S^4L^3 C|-||_|^D=!! |-||_|!! R49^D=!! K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^3 L^^()^D=4 ^D=|_|9
+83|-|39C|-|^()^D= K3 ^D=!!93
+S^4L^3 R49^D=!! K3 84C|-|3 :D
+73R!! M^44 K48|-|X^()^D=4 |-||_|4 |-|X J^() G!!97!! K4R R4|-|4 |-|X
+|_|S^K3 F4738|-|^()X^D=3 K3 7|_|K^D=3 K^()83|-|39C|-|^()^D= K3 ^D=!!93 :D
+73R!! R49^D=!! M^44 K!! C|-||_|7 K^() !!^()^() RS^ ^D=3 K4R C|-|^()^D=|_|9G4 :D
+M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! M^44 K!! C|-||_|7 S^4S^7!! |-|^() G4Y!! |-|X C|-||_|^D= C|-||_|^D= K4R :D
+83|-|39 K3 L^^()^D=3 :D
+73R!! M^44 K!! C|-||_|7 M^3 W^() ^D=|_|M^ 9!! R4|-|4 4|_|R W^() P3|-|L^3 J4!!S^4 :D
+P3|-|L^3 !!^()^()^() RS^. ^D=3K4R C|-|^()^D=74 7|-|4 73R!! M^44 K^() :D
+48 !!^()^() R|_|P4!!Y3 M^3 C|-|^()^D=|_|9G4 :D
+83|-|39 K3 K|_|S^S^ M^4R|_|9
+73R!! R49^D=!! M^44 K!! C|-||_|7 M^4R|_|9 :D
+G49^D=|_| K3 84CC|-|3 :D
+R^()93 L^4G G4Y4
+M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+C^()M^M^3978|-|!! K4R R4|-|4 |-|X W^()8|-|!! R^() R^() K3 L^!!K|-| R4|-|4 |-|X
+8|-|4^D=W3 K3 84C|-|3 :D
+4!!S^3 R^()Y3G4 7|_|83|-|39 K3 L^^()^D=3 :D
+73R!! M^44 K!! C|-||_|7 M^3 |-|47|-| ^D=4L^ ^D=!!Y4 7^()|-| 4!!S^3 R^()Y3G4 7|_|8|-|^()X4^D=C|-|^()^D= K3 84CC|-|3 :D
+73R!! M^44 K!! K|_|S^R4 M^4R|_|983
+M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+L^^()^D=3 S^4L^383|-|39 K3 L^^()^D=3 :D
+L^^()^D=4 M^4R K3 C|-|^()^D=|_|9G4
+73R!! R49^D=!! M^44 K!! C|-||_|7 M^3 :D
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+R^()74 R4|-|3G4 7|_|83|-|39 K3 L^^()^D=3 :D
+P4P4 S^3 F4^D=^D=4 K4R3G4 7|_|
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+G49^D=|_| K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^4R|_|9
+M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! M^44 K48|-|X^()^D=4 |_|^D=4 ^D=|_|9G483
+L^^()^D=3 K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 S^|_|J|-|4 ^D=|_|9
+83|-|39 K3 L^^()^D=3 :D
+73R!! M^44 K48|-|^()X^D=4 M^4^D=4RC|-|^()^D= :D
+K|_|S^R!! K3 84C|-|3 :D
+73R!! M^44 K48|-|^()X^D=4 F4^D= K3 73R3 |-|!!9J^D=3844P K3 G49^D= M^3 7|-||_|S^ ^D=|_|9G4 :D
+83|-|39C|-|^()^D= K3 ^D=!!93
+73R!! R49^D=!! M^44 K!! C|-||_|7 S^|_|J|-|4 ^D=|_|9G483 L^^()W^D=3 S^4L^3
+R49^D=!! K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^3 L^^()^D=4 47K4 ^D=|_|9G4
+R^()74 F!!R3G4 7|_| 73R!! M^44 K!! |-|4L^47|-| ^D=3K|-| K4R :D
+73R!! M^44 K!! C|-||_|7 M^3 L^^()^D=4 ^D=|_|9
+L^^()^D=3 S^4L^38|-|!!K4R!! K3 84C|-|3 :D
+73R!! R49^D=!! M^44 K!! C|-||_|7 M^4R M^4R K3 S^|_|J|-|4 ^D=|_|9 :D
+83|-|39 K3 L^^()^D=3 :D
+73R!! M^44 K!! K|_|S^S^ M^4R|_|9
+M^44 K3 L^^()^D=3 :D
+G|-|4X7!! M^4^D=R4C|-|^()^D= K3 84C|-|3 :D
+73R!! M^44 K48|-|X^()^D=4 S^|_|J|-|4 ^D=|_|9G4 C|-|^()^D= C|-|^()^D= K4R
+K|_|77!! M^4^D=RC|-|^()^D= K3 84CC|-|3 :D
+L^^()^D=4 ^D=4L^ K3 S^^() J4|_|9G4 73R!! M^44 K3 F4738|-|^()X^D=3 M^3 :D
+K|_|S^R!! K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^4R|_|983
+M^4^D=4RC|-|^()^D= S^4L^3
+R49^D=!! K3 84C|-|3 :D
+73R!! M^44 K48|-|^()X^D=4
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+L^!!K|-| S^4L^3 R49^D=!! K3 84C|-|3 :D
+K4!!S^3 K4L^4P R4|-|4 |-|X 7|_|
+83|-|39C|-|^()^D= K3 ^D=!!93
+G49^D=|_| K3 84C|-|3 :D
+P4P4 S^3 L^4^D=3G4 7|_|
+M^44 K3 L^^()^D=3 :D
+4|_|K47L^3XX R49^D=!! K3 84CC|-|3 :D
+R49^D=!! K3 84C|-|3 :D
+^D=3K|-| M^44 K3 L^^()^D=3 K4!!S^3 R^() R4|-|4 |-|X 7|_|
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+73R!! M^44 K!! C|-||_|7 K3 S^4M^93 |-|!! 7|_| 7^()|-| R^() P4^D=4 :D
+M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 F47 G4Y!! |-|X
+C|-||_|^D= C|-||_|^D= K4R
+83|-|39 K3 L^^()^D=3 :D
+S^4L^3 C|-||_|^D=!! |-||_|!! R49^D=!! K3 84C|-|3 :D
+G49^D=|_| M^44 K384|-|C3 :D
+73R!! M^44 K!! K|_|S^S^ M^4R|_|9
+M^44 K3 L^^()^D=3 :D
+S^4L^3 G|-|4X7!! K3 84C|-|3 :D
+73R!! M^44 K38|-|^()X^D=3 M^3 L^^()^D=4 ^D=|_|9
+83|-|39C|-|^()^D= X444L^3
+S^4L^3 R49^D=!! K3 J493 :D
+73R!! M^44 K48|-|X^()^D=4 |_|^D=4 ^D=|_|983
+L^^()^D=3 K384|-|C3 :D
+R^() R4|-|4 |-|X K4!!S^3
+S^4L^3 K|_|7!!Y3 M^4^D=4RC|-|^()^D= K3 J493 :D
+73R!! M^44 K!! C|-||_|78|-|!! 4!!S^3 |-|!! R^()Y3G!!
+83|-|39 K3 L^^()^D=3 :D
+S^4L^3 ^D=4L^!!7 M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+G49^D=|_| M^44 K3 L^^()^D=3 :D
+S^4L^38|-|!!K4R!! M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+R^()Y3G4 7|_|83|-|39 K3 L^^()^D=3 :D
+73R!! R49^D=!!83|-|39 K!! C|-||_|7 M^3 |-|47|-| ^D=4L^|_|9G4
+7^()|-| K4!!S^3 R^()Y3G4 F!!R 7|_|83|-|39 K3 L^^()^D=3 :D
+K|_|S^R!! M^4^D=RC|-|^()^D= K3 84CC|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^3 L^^()^D=4 ^D=|_|9
+83|-|39 K3 L^^()^D=3 :D
+S^4L^3 C|-||_|^D=!! |-||_|!! R49^D=!! K3 84C|-|3 :D
+G49^D=|_| M^44 K3 84C|-|3 :D
+73R!! M^44 K48|-|X^()^D=4 M^4R|_|983
+L^^()W^D=3 K3 84C|-|3 :D
+R^() M^4^D=RC|-|^()^D= 4|_|R R^() 7|_| :D
+7|_| J!!794 R^()Y3G4 M^|_|J|-|3 73R!! M^44 C|-|^()^D=93 M^3 |_|794 |-|!! M^4J4 44Y3G4 :D
+M^3 7^()|-| 73R!! M^44 K^() 4!!S^3 |-|!! C|-|^()^D=|_|9G4
+7|_|84S^ F33L^ K4R 73R!! M^44 K!! C|-||_|^D=4!!
+R49^D=!! K3 84C|-|3 :D
+4!!S^3 F33L^ K4R84S^ 7|_| 7^()|-| :D
+73R!! M^44 K!! C|-||_|7 ^D=3K|-| K4!!S^3 F47 C|-||_|K!! |-|X
+83|-|39 K3 L^^()^D=3 :D
+C|-|4M^4R M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+73R!! M^44 K48|-|^()X^D=4 G4Y48 |-|^() J4Y3G4 44J :D
+M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+4!!S^3 C|-||_|^D=3G!! 73R!! M^44 K!! C|-||_|7 K!!
+73R!! M^44 K48|-|^()X^D=48|-|!! ^D=!!K|-|3G4 94!! |_|S^K3 S^4M^93 :D
+R49^D=!! K3 84C|-|3 :D
+73R!! M^44 K!! K|_|S^S^ M^4R|_|983
+C|-|M^4R M^4^D=R4C|-|^()^D= K3 84C|-|3 :D
+G49^D=|_| S^4L^38|-|!!K4R!!
+X|-||_|7!!Y3 M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+L^^()^D=4 P474K ^D=|_|9G4 73R!! M^44 K!! C|-||_|7 M^3 :D
+M^4^D=RC|-|^()^D= S^4L^3 :D
+L^^()^D=4 P474K P474K K3 M^4R|_|9G4 73R!! R49^D=!! M^44 K48|-|^()X^D=4 F47 J4Y3G4
+83|-|39 K3 L^^()^D=3 :D
+C|-|4M^4R R49^D=!! K3 84C|-|3 :D
+G49^D=|_| S^4L^38|-|!!K4R!! K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^4R|_|9
+M^44 K3 L^^()^D=3 :D
+C|-|M^4R K3 84C|-|3 :D
+73R!! M^44 K!!8|-|^()X^D=3 M^3 L^|_|9^D= ^D=4L^ K3 S^^() J4|_|9
+F33L^ K4R M^4^D=4RC|-|^()^D= 73R!! M^44 K!! C|-||_|^D=4!! F33L^ K4R :D
+83|-|39 C|-|^()^D= K3 ^D=!!93 :D
+73R!! M^44 C|-||_|^D=3G!! 4|_|R 7|_| F33L^ K4R3G4 4!!S^3 |-|!!
+G|-|4X47 R49^D=!! 8494 ^D=|_|9G4 73R!! M^44 K^() C|-|^()^D= C|-|^()^D= K4R :D
+C|-||_|^D=!! R49^D=!! K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^4R|_|9 :D
+S^4L^3 R49^D=!! K3 J493 :D
+73R!! M^44 K4 8|-|^()X^D=483
+M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D 
+73R!! R49^D=!! M^44 K!!8|-|^()X^D=3 M^3 L^^()^D=4 ^D=|_|9 :D
+C|-||_|^D= G4Y4 7|_|
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+C|-||_|^D= G4Y4 7^()|-| 4!!S^3 R^()Y3G4 7|_|
+83|-|39 K3 L^^()^D=3 :D
+C|-|M^4R R49^D=!! K3 J493
+73R!! M^44 K48|-|^()X^D=4 F474 7^()|-| 4!!S^3 R^()Y3G4 7|_|
+73R!! M^44 K!! C|-||_|7 M^3 C|-||_|M^M^4 ^D=|_|9 :*
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+G49^D=|_| M^44 K384CC|-|3 :D
+8|-|!!K4R!! M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+R49^D=!!849 G4Y!! 73R!! M^44 7^()|-| M^3R3 L^^()^D=3 K3 9!!C|-|3 44K4R :D
+L^^()^D=3 S^4L^3 8|-|!!K4R!! K3 84C|-|3 :D
+^D=3K|-| M^4^D=RC|-|^()^D= 73R!! M^44 K!! |-|4L^47|-|
+K4!!S^3 S^|_|K|-|!! P477!! K!! 74R4|-| |-|^() G4Y!! |-|X |_|S^K!! F47!! C|-||_|7 :D
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+83|-|39 K3 L^^()^D=3 :D
+|-|4S^!! 44 R4|-|!! |-|X 73R!! M^44 K!! F47!! C|-||_|7 ^D=3K|-| K4R :D
+73R!! M^44 K48|-|^()X^D=4 F47 C|-||_|K4 |-|X
+^D=3K|-| 73R!! M^44 K48|-|^()X^D=4 4!!S^3 F4^D= ^D=!!Y4 |-|X K!! C|-|4M^4R8|-|!! S^!!L^493 K3 L^!!Y3 R4J!! 94!! |-|^()G4 :D
+73R!! |-|!! G4L^7!! |-|X M^4^D=4RC|-|^()^D= :D
+M^3R3 L^^()^D=3 K3 9!!C|-|3 44 K4R ^D=484 ^D=!!Y4 7|_|93 73R!! M^44 K!! C|-||_|7 K^() :D
+G|-|4X7!! M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+73R!! M^44 K!! C|-||_|7 F47 K3 C|-||_|784R4849 G4Y4 :3
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+R49^D=!! K3 84C|-|3 :D
+7|_|93 |-|!! C|-||_|^D=4 ^D=!!Y4 73R!! M^44 K^()
+83|-|39 K3 K|_|S^S^ :D
+73R!! R49^D=!! M^44 K48|-|^()X^D=4 S^|_|J|-|4 ^D=|_|9G4
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+G49^D=|_| M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^3 L^^()^D=4 ^D=4L^ K3 S^^() J4|_|9G4
+L^^()^D=3 M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+G49^D=|_| M^44 K3 84C|-|3 :D
+73R!! M^44 K!!8|-|^()X^D=3 M^3 M^|_|7 ^D=!!Y4 M^4!!93 :D
+M^4^D=4RC|-|^()^D= K3 J493 :D
+J4K4R S^44F K4R 73R!! M^44 K!!8|-|^()X^D=3 K^() :D
+83|-|39 K3 L^^()^D=3 :D
+73R!! M^44 K!!8|-|^()X^D=3 M^3 94M^4K K4M^ 7|-|!! :D 
+S^L^!!Y3 M^|_|7 K4R 94M^4K84^D=|-|4 ^D=!!Y4 M^4!!93
+C|-||_|^D=!! |-||_|!! R49^D=!! K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^4R|_|983
+M^4^D=R4C|-|^()^D= K3 84C|-|3 :D
+73R!! M^44 K48|-|X^()^D=4 M^4R|_|9
+M^44 K3 L^^()^D=3 :D
+73R!! R49^D=!! M^44 K!!8|-|^()X^D=3 M^3 L^447 M^4R|_|9G4
+M^4^D=4RC|-|^()^D= K3 J493 :D
+73R!! M^44 K!! C|-||_|7 K^() M^4R M^4R K3 S^|_|J|-|4 ^D=|_|9G4
+73R!! R49^D=!! M^44 K^() L^!!74 L^!!74 K3 C|-|^()^D=|_|9G4
+83 K|_|S^R!! K3 84C|-|3 :D
+L^^()^D=3 M^4^D=RC|-|^()^D= K3 84C|-|3 :D
+8|-|!!K4R!! K3 84C|-|3 :D
+73R!! M^44 K48|-|^()X^D=4 M^4R|_|9
+S^4L^3 K4L^4P7!! |-||_|!! R49^D=!! K3 84C|-|3 :D
+R49^D=!! 8494 ^D=|_|9G4 73R!! M^44 K^() C|-|^()^D= C|-|^()^D= K4R :D
+83|-|39 K3 L^^()^D=3 :D
+C|-|4M^4R M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+73R!! R49^D=!! M^44 K48|-|^()X^D=4 F4^D= K3 73R3 G4L^3 M^3 749G ^D=|_|9G4
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+73R!! M^44 K!! C|-||_|7 M^4R|_|9
+G|-|4X7!! M^4^D=RC|-|^()^D= K3 84C|-|3 :D
+8|-|!!K4R!! K3 84C|-|3 :D
+73R!! M^44 K48|-|^()X^D=4 M^4R|_|983
+L^^()^D=3 K3 84C|-|3 :D
+73R!! M^44 K48|-|^()X^D=4 4!!S^3 |-|!! F477!! J4Y3G!!
+P4P4 S^3 F4^D=^D=4 K4R3G4 7|_|
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+73R!! R49^D=!! M^44 K!! C|-||_|7 S^|_|J|-|4 ^D=|_|9G4 C|-|^()^D= C|-|^()^D= K4R
+83|-|39 K3 L^^()^D=3 :D
+C|-|4M^4R M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+G49^D=|_| K3 84C|-|3
+73R!! M^44 K48|-|X^()^D=4 M^4R|_|9
+F47!! C|-||_|7 S^3 9!!KL^3 |-||_|3 74773 :D
+G49^D=|_|8|-|!!K4R!! K3 84C|-|3 :D
+73R!! M^44 7^()|-| G48|-|!!9849 G4Y!! M^4^D=4RC|-|^()^D= :D
+M^3R3 L^^()^D=3 K3 9!!C|-|3 ^D=48 G4Y!! 73R!! M^44 7^()|-| :O
+3K ^D=!!9 K3 C|-||_|^D=4!! M^3 |-|!! 73R!! M^44 G48|-|!!9849 G4Y!! :D
+8|-|^()X^D=!!K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^3 L^^()^D=4 ^D=|_|9
+C|-|4M^4R M^4^D=RC|-|^()^D= K3 84CC|-|3 :D
+G49^D=|_| M^44 K3 84C|-|3 :D
+73R!! M^44 K!! K|_|S^S^ M^4R|_|9
+S^L^43 G|-|4X7!! K3 84C|-|3 :D
+L^^()^D=4 F3K F3K K3 M^4R|_|9G4 73R!! M^44 K48|-|^()X^D=4 |_|J4^D= J4Y3G4 :D
+83|-|39 K3 L^^()^D=3 :D
+C|-|4M^4R M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+73R!! M^44 K48|-|^()X^D=4 F47 G4Y4 F!!R8|-|!! 7|_|J|-|S^3 7YP3 9!! |-|^() R4|-|4 :D
+R49^D=!! K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 S^|_|J|-|3G!! 748 J4K4R L^!!K|-|3G4 KY4 7|_|
+C|-|4M^4R M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+G94^D=|_| K3 84C|-|3 :D
+73R!! M^44 K48|-|^()X^D=4 M^4R|_|9
+83 L^^()W^D=3 K3 84C|-|3 :D
+L^!!K|-|948|-||_|L^ G4Y4
+73R!! M^44 K!! C|-||_|7 F47 R4|-|!! |-|X
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+J4L^^D=!! L^!!K|-|94 S^!!K|-| L^3 :D
+^D=4L^L^!! K3 84C|-|3 :D
+S^4L^3 S^L^^()W 7YP3R
+R49^D=!! K3 84C|-|3 :D
+G49^D=|_| M^44 K384|-|C3 :D
+73R!! M^44 K!! C|-||_|7 M^3 M^|_|7 ^D=|_|9G4
+83|-|39 K3 L^^()^D=3 :D
+C|-|4M^4R M^4^D=R4C|-|^()^D= K3 84C|-|3 :D
+G49^D=|_|849 G4Y4 7|_| 7^()|-|
+83 L^^()W^D=3 K3 84C|-|3 :D
+8|-|!!K4R!! M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 K4 C|-|488|_|74R4 8494 ^D=!!Y4 M^4!!93 8-) 
+8|-|4G^()^D=3 M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+73R!! R49^D=!! M^448|-|!!8|-|4G8|-|4G K3 C|-||_|^D=7!! |-|X
+W4!!S^3 |-|!! 7|_| |-|4M^3S^48|-|4G8|-|4G K4R C|-||_|^D=74 |-|X  :v
+73R!! R49^D=!! M^44 K!! C|-||_|7 M^4R|_|9
+M^44 K3 L^^()^D=3 :D
+S^4L^3 G|-|4X4^D= R49^D=!! K3 84C|-|3 :D
+M^3R3 L^^()^D=3 K3 9!!C|-|3 44 K4R ^D=48 G4Y4 7|_|
+G|-|4X4^D=849 G4Y!! 73R!! R49^D=!! M^44 :D
+4|_|R M^4^D=4RC|-|^()^D= K4 74774 7|_| C|-||_|^D=3L^4 74774849 G4Y4 :D
+83|-|39 K3 K|_|S^S^ M^4R|_|9
+73R!! 83|-|39 K!! C|-||_|7 M^4R|_|9
+C|-|4M^4R M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! R49^D=!! M^44 K!! C|-||_|7 M^3 L^^()^D=4 ^D=4L^ K3 S^^() J4|_|9G4
+83|-|39C|-|^()^D= K3 ^D=!!93 :D
+K|_|7!!Y3 K3 P!!L^L^3 :D
+73R!! M^44 K!! G49^D= M^4R|_|9G4
+83|-|39C|-|^()^D= S^4L^3 :D
+R49^D=!! K3 84C|-|3 :D
+73R!! M^44 K48|-|X^()^D=4 749G ^D=|_|9G4
+M^44 K3 L^^()^D=3 :D
+C|-|4M^4R M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+G49^D=|_| K3 84C|-|3 :D
+73R!! M^44 K48|-|X^()^D=4 M^4R|_|9
+73R!! M^44 K!! C|-||_|7 M^3 L^^()^D=4 ^D=4L^ ^D=4L^ K3 S^^() J4|_|9G4
+73R!! M^44 K3 S^47|-| S^|_||-|4GR447 M^494|_|9G4 :D
+G|-|4X7!! M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+R49^D=!! K3 84C|-|3 :D
+73R!! M^44 K^() C|-|^()^D=|_|983
+L^^()W^D=3 K3 84C|-|3 :D
+73R!! M^44 K!! K|_|S^S^ M^4R|_|9
+83|-|39 K3 L^^()^D=3 :D
+73R!! M^44 K^() F4M^^()|_|S^ R49^D=!! 8494 ^D=|_|9G4 M^4^D=4RC|-|^()^D= :D
+C|-|^()^D= C|-|^()^D= K3 L^^()^D=4 ^D=4L^|_|9G4 |_|S^K3 G49^D= M^38|-|^()X^D=4 F47 K3 R^() P4^D=3G!! 73R!! M^44 7^()|-| :D
+G49^D=|_| M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^3 94M^4K ^D=4L^ K3 C|-|^()^D=|_|9G4
+K|_|7!!Y3 K3 P!!L^L^3 :D
+44J4 M^4^D=4RC|-|^()^D= 7|_|J|-|3 7YP!!9G S^!!K|-|474 |-||_|9 M^3 :D
+3 WR^D= M^3 73R!! M^44 K!! C|-||_|7 L^!!K|-| R4|-|4 |-|X KY4
+G49^D=|_| K3 84CC|-|3 :D
+4!!S^3 48|_|S^3R8493G4 7|_|
+C|-|4M^4R M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+4|_|K47L^3XX S^4L^38|-|49G!!
+M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^4R|_|9
+M^4^D=4RC|-|^()^D= S^4L^3 :D
+73R!! M^44 K^()8|-|4G48|-|4G4 K3 C|-|^()^D=|_|9G4
+83|-|39 K3 L^^()^D=3 :D
+C|-|4M^4R M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+G49^D=|_| M^44 K3 84C|-|3 :D
+73R!! M^44 K^() L^|_|9^D= ^D=|_|9
+G|-|4X7!! M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^4R|_|9
+R49^D=!! K3 84C|-|3
+G49^D=|_| M^44 K3 84C|-|3 :D
+73R!! M^44 K^() K|_|7!!Y3 8494 K3 73R3 |-|!! S^4M^93 C|-|^()^D=|_|9G4
+M^4^D=4RC|-|^()^D= S^4L^3 :D
+R49^D=!! K3 84C|-|3 :D
+73R!! M^44 K!! G49^D= F4^D= ^D=|_|9G4
+L^^()W^D=3 K3 84C|-|3 :D
+73R!! M^44 R49^D=!!849 J4Y3G!! 44J M^3R3 L^^()^D=3 K3 9!!C|-|3 ^D=48 K3 M^4R J4Y3G!! :D
+83|-|39 K3 L^^()^D=3 :D
+C|-|4M^4R M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+8|-|!!K4R!! M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^4R|_|9
+M^44 K3 L^^()^D=3 :D
+G49^D=|_| K3 84CC|-|3 :D
+P4P4 S^3 L^4^D=3G4 7|_|
+4|_|K47 |-|X 73R!! M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! M^44 C|-||_|^D= C|-||_|^D= K3 M^4R G4Y!!838|-|4G!! R49^D=!! K3 84CC|-|3 :D
+4|_|R 7|_| M^4^D=4RC|-|^()^D= P4P4 S^3 L^4^D=|-|93 44Y4 |-|X
+R49^D=!! K3 84C|-|3 :D
+G49^D=|_| M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! M^44 K!! C|-||_|7 S^|_|J|-|4 ^D=|_|9G4 
+L^^()W^D=3 K3 84CC|-|3 :D
+K|_|S^R!! M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+8|-|4G!! R49^D=!! K3 84C|-|3 :D
+P4P4 K3 S^4M^938|-|4KC|-|^()^D=!! K4R93 44Y4 |-|X
+83|-|39 K3 L^^()^D=3 :D
+4!!S^3 L^!!K|-|3G4 7|_| C|-|4M^4R
+M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^4R|_|9
+G49^D=|_| S^4L^38|-|!!K4R!! M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+73R!! M^44 K!! K|_|S^S^ M^4R|_|9
+G|-|4X7!! C|-|4M^4R K3 84C|-|3 :D
+73R!! M^44 K!! C|-||_|7 S^|_|J|-|4 ^D=|_|9G483
+73R!! M^44 R49^D=!!849 G4Y!! :D
+S^4R4M^ K4R M^4^D=4RC|-|^()^D= K3 ^()L^4^D= :D
+73R!! M^44 C|-||_|^D= C|-||_|^D= K4R R49^D=!!849 G4Y!! F!!R8|-|!! 4K4L^ 94!! 44 R4|-|4 |-|X 7|_|J|-|3 :D
+73R!! M^44 7^()|-| C|-||_|^D= G4Y!! 48 KY4 73R!! 83|-|39 K^()8|-|!! M^3R3 L^^()^D=3 K3 9!!C|-|38!!7|-|4Y3G4 :D
+G|-|4X7!! M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^4R|_|983
+L^^()W^D=3 K3 84C|-|3 :D
+K|_|S^R!! M^4^D=4RC|-|^()^D= K3 ^D=!!93 :D
+8|-|4G!! |-||_|!! R49^D=!! K3 84CC|-|3 :D
+K4L^4P7!! |-||_|!! R49^D=!! K3 S^49749 :D
+K|_|S^R!! M^4^D=4RC|-|^()^D= K3 J493 :D
+R49^D=!! M^44 K3 84C|-|3 :D
+G49^D=|_| M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^4R|_|9
+M^44 K3 L^^()^D=3 :D
+C|-|4M^4R M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! M^44 R49^D=!!849 J4Y3G!!
+83|-|39 K3 L^^()^D=3 :D
+P4P4 S^3 L^4^D=3G4 7|_|
+73R!! M^44 K^() C|-|^()^D=|_|9G4 83744 :D
+73R!! 83|-|39 K^() 949G48|-|4G4|_|9G4 :D
+K|_|77!! M^44 K3 84C|-|3 :D
+S^4L^3 K|-|49J4R!! M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^4R|_|9 :D
+S^4L^3 G|-|4X7!! M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+C|-||_|^D=!! |-||_|!! R49^D=!! K3 84C|-|3 :D
+G49^D=|_| M^44 K3 L^^()^D=3
+S^4L^3 R49^D=!! K3 84C|-|3 :D
+C|-|!!94L^ 4|_|R47 K3 84C|-|3 :D
+^D=4L^L^!! 4|_|R47 K3 84C|-|3 :D
+^D=4L^L^!!849 G4Y!! 73R!! M^44 C|-||_|^D= C|-||_|^D= K4R :D
+83|-|39 K3 K|_|S^S^ M^4R|_|9 73R!! :D
+73R!!84J!! K!! K|_|S^S^ M^4R|_|9
+M^44 K3 L^^()^D=3 :D
+G|-|4X7!! M^4^D=4RC|-|^()^D= K3 84C|-|3 :D
+K!!L^4S^ K!!L^4S^ K3 L^!!K|-| R4|-|4 |-|X
+83|-|39 K3 L^^()^D=3 :D
+G|-|4X7!! M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! M^44 C|-||_|^D=3G!!
+S^4L^3 R49^D=!! K3 84C|-|3 :D
+K|_|S^R!! K3 84C|-|3 :D
+K|-|49J4R!! K3 84C|-|3 :D
+73R!! M^44 K48|-|^()X^D=483
+L^^()W^D=3 K3 84CC|-|3 :D
+P4P4 K4 L^^()^D=4 C|-||_|S^3G4 Y383|-|39C|-|^()^D= K4 ^D=!!94 :D
+73R!! M^44 K!! C|-||_|7 F47 J47!! |-|X L^^()^D=4 J|-|3L^93 M^3 :D
+4|_|R 7|_| M^4^D=4RC|-|^()^D= K484C|-|4 P4P4 K4 L^^()^D=4 C|-||_|S^93 44Y4 |-|X :D
+8|-|^()X^D=!!K3 M^4^D=4RC|-|^()^D= S^4L^3
+R49^D=!! K3 J493 :D
+73R!! M^44 K!! C|-||_|7 M^4R|_|983
+G49^D=|_| M^44 K3 84C|-|3
+73R!! M^44 K!! C|-||_|7 M^4R|_|9
+83|-|39 K3 L^^()^D=3 :D
+8|-|4G^()^D=4 M^^D=44RC|-|^()^D= :D
+73R!! 83|-|398|-|4G8|-|4G K3 C|-||_|^D=7!! |-|X KY4? O.o
+73R!! M^44 K!! C|-||_|7 M^4R|_|9
+M^44 K3 L^^()^D=3 :D
+73R!! M^44 93 |-|!! S^!!K|-|4Y4 |-|^()G4 7|_|J|-|38|-|4G8|-|4G K3 C|-||_|^D=94 :D
+M^4^D=4RC|-|^()^D= K3 84CC|-|3 :D
+8|-|4G^()^D=4 M^^D=4RC|-|^()^D= K3 84CC|-|3 :D
+73R!! M^44 K!! C|-||_|7 M^4R|_|983
+L^^()W^D=3 K3 84C|-|3 :D
